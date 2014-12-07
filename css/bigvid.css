@@ -1,0 +1,44 @@
+header{
+	box-shadow:0 2px 10px rgba(0,0,0,0.26);
+}
+.img-header{
+	margin-top: 15px;
+}
+.list-group{
+	margin-bottom: 0px;
+}
+.highlights .list-group .list-group-item .row-picture .btn {
+	padding: 0px 0px 0px 0px;
+	margin: 5px 0px 15px 0px;
+
+}
+.highlights .list-group .list-group-item .row-picture .btn img {
+	height:70px;
+	width:70px;
+}
+.highlights .list-group .list-group-item .list-group-item-heading { 
+	font-size: 16px;
+	font-weight: bold;
+	white-space: nowrap; 
+	overflow: hidden; 
+	text-overflow: ellipsis; 
+}
+
+.newsandevents .list-group-item-text{
+    font-size: 16px;
+}
+
+.newsandevents .list-group .list-group-item .row-action-primary i {
+	height:40px;
+	width:40px;
+	line-height:40px;
+}
+.newsandevents .list-group .list-group-item .row-content{
+	min-height: 45px;
+	width:calc(100% - 115px);
+}
+.newsandevents .list-group .list-group-separator:before{
+	width:calc(100% - 70px)
+}
+
+
