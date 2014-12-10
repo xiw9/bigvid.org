@@ -18,6 +18,13 @@ body {
 .navbar{
 	margin-bottom: 30px;
 }
+.navbar-brand{
+	padding-top: 7px;
+	padding-bottom: 4px;
+}
+.navbar-brand img{
+	height: 100%;
+}
 .navbar-form{
 	padding-right: 5px;
 }
