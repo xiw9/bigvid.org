@@ -2304,7 +2304,7 @@ body .well .form-control,
 body .well:not([class^="well well-material-"]) .form-control,
 .container .well:not([class^="well well-material-"]) .form-control,
 .container-fluid .well:not([class^="well well-material-"]) .form-control {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 body .well .floating-label,
 .container .well .floating-label,
@@ -2359,7 +2359,7 @@ body .well .create,
 body .well:not([class^="well well-material-"]) .create,
 .container .well:not([class^="well well-material-"]) .create,
 .container-fluid .well:not([class^="well well-material-"]) .create {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 body .well.well-sm,
 .container .well.well-sm,
@@ -2409,7 +2409,7 @@ body [class^="well well-material-"] .option,
 body [class^="well well-material-"] .create,
 .container [class^="well well-material-"] .create,
 .container-fluid [class^="well well-material-"] .create {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 body .well,
 .container .well,
@@ -2725,7 +2725,7 @@ body .jumbotron-material-lightgrey,
 }
 .btn.btn-flat:not(.btn-link),
 .btn-default.btn-flat:not(.btn-link) {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 .btn-primary.btn-flat:not(.btn-link) {
   color: #009587;
@@ -2938,12 +2938,12 @@ body .jumbotron-material-lightgrey,
 .btn-link,
 .btn:not([class^="btn btn-"]),
 .btn-default {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 .btn-link:hover,
 .btn:not([class^="btn btn-"]):hover,
 .btn-default:hover {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 .btn:not([class^="btn btn-"]):hover,
 .btn-default:hover,
@@ -3090,7 +3090,7 @@ body .jumbotron-material-lightgrey,
   display: block;
   position: absolute;
   content: "";
-  background-color: rgba(0, 0, 0, 0.84);
+  background-color: rgb(0, 0, 0);
   left: -8px;
   top: -11px;
   height: 50px;
@@ -3124,7 +3124,7 @@ body .jumbotron-material-lightgrey,
   display: block;
   position: absolute;
   content: "";
-  background-color: rgba(0, 0, 0, 0.84);
+  background-color: rgb(0, 0, 0);
   left: -5px;
   top: -15px;
   height: 50px;
@@ -3184,7 +3184,7 @@ body .jumbotron-material-lightgrey,
   opacity: 0.5;
 }
 .checkbox input[type=checkbox][disabled] ~ .check:after {
-  background-color: rgba(0, 0, 0, 0.84);
+  background-color: rgb(0, 0, 0);
   -webkit-transform: rotate(-45deg);
       -ms-transform: rotate(-45deg);
           transform: rotate(-45deg);
@@ -3651,7 +3651,7 @@ body .jumbotron-material-lightgrey,
           transition-duration: 0.2s;
 }
 .radio label .circle {
-  border: 2px solid rgba(0, 0, 0, 0.84);
+  border: 2px solid rgb(0, 0, 0);
   height: 15px;
   width: 15px;
   border-radius: 100%;
@@ -3660,7 +3660,7 @@ body .jumbotron-material-lightgrey,
   height: 15px;
   width: 15px;
   border-radius: 100%;
-  background-color: rgba(0, 0, 0, 0.84);
+  background-color: rgb(0, 0, 0);
   -webkit-transform: scale(0);
       -ms-transform: scale(0);
           transform: scale(0);
@@ -3669,7 +3669,7 @@ body .jumbotron-material-lightgrey,
   display: block;
   position: absolute;
   content: "";
-  background-color: rgba(0, 0, 0, 0.84);
+  background-color: rgb(0, 0, 0);
   left: -18px;
   top: -18px;
   height: 50px;
@@ -3692,7 +3692,7 @@ body .jumbotron-material-lightgrey,
 }
 .radio input[type=radio]:checked ~ .check,
 .radio-default input[type=radio]:checked ~ .check {
-  background-color: rgba(0, 0, 0, 0.84);
+  background-color: rgb(0, 0, 0);
 }
 .radio-primary input[type=radio]:checked ~ .check {
   background-color: #009587;
@@ -3765,7 +3765,7 @@ body .jumbotron-material-lightgrey,
 }
 .radio input[type=radio]:checked ~ .circle,
 .radio-default input[type=radio]:checked ~ .circle {
-  border-color: rgba(0, 0, 0, 0.84);
+  border-color: rgb(0, 0, 0);
 }
 .radio-primary input[type=radio]:checked ~ .circle {
   border-color: #009587;
@@ -3849,10 +3849,10 @@ body .jumbotron-material-lightgrey,
           transform: scale(0.55);
 }
 .radio input[type=radio][disabled] ~ .circle {
-  border-color: rgba(0, 0, 0, 0.84);
+  border-color: rgb(0, 0, 0);
 }
 .radio input[type=radio][disabled] ~ .check {
-  background-color: rgba(0, 0, 0, 0.84);
+  background-color: rgb(0, 0, 0);
 }
 @keyframes rippleOn {
   0% {
@@ -4285,7 +4285,7 @@ select[multiple].form-control.focus {
 }
 .form-group .control-label,
 .form-group-default .control-label {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 .form-group-primary .control-label {
   color: #009587;
@@ -4589,7 +4589,7 @@ legend {
 }
 .list-group .list-group-item.active .list-group-item-heading,
 .list-group .list-group-item.active .list-group-item-text {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 .list-group .list-group-separator {
   clear: both;
@@ -4819,38 +4819,59 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #5264ae;
 }
 .navbar-material-white {
-  background-color: #FFF;
+  background-color: #f5f5f5;
 }
 .navbar-material-white .navbar-brand,
 .navbar-material-white .navbar-brand:hover,
 .navbar-material-white .navbar-brand:focus {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 .navbar-material-white .navbar-nav > li > a {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 .navbar-material-white .navbar-nav > li > a:hover,
 .navbar-material-white .navbar-nav > li > a:focus {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
   background-color: transparent;
 }
 .navbar-material-white .navbar-nav > .active > a,
 .navbar-material-white .navbar-nav > .active > a:hover,
 .navbar-material-white .navbar-nav > .active > a:focus {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
   background-color: rgba(0, 0, 0, 0.05);
 }
 .navbar-material-white .navbar-nav > .disabled > a,
 .navbar-material-white .navbar-nav > .disabled > a:hover,
 .navbar-material-white .navbar-nav > .disabled > a:focus {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
   background-color: transparent;
 }
 .navbar-material-white .navbar-nav > .open > a,
 .navbar-material-white .navbar-nav > .open > a:hover,
 .navbar-material-white .navbar-nav > .open > a:focus {
   background-color: rgba(0, 0, 0, 0.05);
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
+}
+.navbar-material-white .navbar-form .form-control-wrapper .form-control,
+.navbar-material-white .navbar-form .form-control {
+  border-color: rgba(0, 0, 0, 0.3);
+  color: rgba(0, 0, 0, 0.3);
+}
+.navbar-material-white .navbar-form .form-control-wrapper .material-input:before,
+.navbar-material-white .navbar-form .form-control-wrapper input:focus ~ .material-input:after {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.navbar-material-white .navbar-form ::-webkit-input-placeholder {
+  color: rgba(0, 0, 0, 0.88);
+}
+.navbar-material-white .navbar-form :-moz-placeholder {
+  color: rgba(0, 0, 0, 0.88);
+}
+.navbar-material-white .navbar-form ::-moz-placeholder {
+  color: rgba(0, 0, 0, 0.88);
+}
+.navbar-material-white .navbar-form :-ms-input-placeholder {
+  color: rgba(0, 0, 0, 0.88);
 }
 @media (max-width: 1199px) {
   .navbar .navbar-brand {
@@ -5208,7 +5229,7 @@ icon {
 icon,
 .mdi-default,
 icon-default {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 .mdi-primary,
 icon-primary {
@@ -5309,7 +5330,7 @@ icon-material-lightgrey {
   width: 100%;
   /**************************************************************************/
   border-radius: 2px;
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
   background: #ffffff;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.23), 0 3px 10px rgba(0, 0, 0, 0.16);
 }
@@ -5556,7 +5577,7 @@ icon-material-lightgrey {
 }
 .panel-default > .panel-heading,
 .panel:not([class*="panel-"]) > .panel-heading {
-  color: rgba(0, 0, 0, 0.84);
+  color: rgb(0, 0, 0);
 }
 .panel-footer {
   background-color: #ececec;
