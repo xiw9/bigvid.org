@@ -18,27 +18,27 @@ function print_navbar($navid){
                     if ($navid==0){
                         echo sprintf('<li %s><a href="/">Home</a></li>', $active);
                     }else{
-                        echo '<li><a href="/">Home</a></li>'
+                        echo '<li><a href="/">Home</a></li>';
                     }
                     if ($navid==1){
                         echo sprintf('<li %s><a href="people">People</a></li>', $active);
                     }else{
-                        echo '<li><a href="people">People</a></li>'
+                        echo '<li><a href="people">People</a></li>';
                     }
                     if ($navid==2){
                         echo sprintf('<li %s><a href="research">Research</a></li>', $active);
                     }else{
-                        echo '<li><a href="research">Research</a></li>'
+                        echo '<li><a href="research">Research</a></li>';
                     }
                     if ($navid==3){
                         echo sprintf('<li %s><a href="publication">Publications</a></li>', $active);
                     }else{
-                        echo '<li><a href="publications">Publications</a></li>'
+                        echo '<li><a href="publications">Publications</a></li>';
                     }
                     if ($navid==4){
                         echo sprintf('<li %s><a href="dataset">Dataset</a></li>', $active);
                     }else{
-                        echo '<li><a href="dataset">Dataset</a></li>'
+                        echo '<li><a href="dataset">Dataset</a></li>';
                     }                                                                                
                     echo '
                     </ul>
