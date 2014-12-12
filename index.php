@@ -1,6 +1,6 @@
-<?php include 'header.php' ?>
+<?php include 'header.php'; print_header('BigVid Lab'); ?>
 <body>
-    <?php include 'navbar.php'; print_header('BigVid Lab'); ?>
+    <?php include 'navbar.php'; print_navbar(0); ?>
     <div class="container">
         <div class="row">
             <div class="col-xs-8">
