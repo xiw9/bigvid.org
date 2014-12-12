@@ -24,6 +24,7 @@ body {
 }
 .navbar-brand img{
 	height: 100%;
+	width:100%;
 }
 .navbar-form{
 	padding-right: 5px;
@@ -43,7 +44,7 @@ body {
 .carousel{
 	padding-bottom: 20px;
 }
-.carousel-inner .item img{
+.carousel-inner .item a img, .carousel-inner .item img{
 	height:240px;
 }
 /*.carousel:hover .carousel-caption {
