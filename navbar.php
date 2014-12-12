@@ -15,29 +15,29 @@ function print_navbar($navid){
                     <ul class="nav navbar-nav">';
                     $active='class="active"';
                     if ($navid==0){
-                        echo sprintf('<li %s><a href="/">Home</a></li>\n', $active);
+                        echo sprintf('<li %s><a href="/">Home</a></li>', $active), PHP_EOL;
                     }else{
-                        echo '<li><a href="/">Home</a></li>\n';
+                        echo '<li><a href="/">Home</a></li>', PHP_EOL;
                     }
                     if ($navid==1){
-                        echo sprintf('<li %s><a href="people">People</a></li>\n', $active);
+                        echo sprintf('<li %s><a href="people">People</a></li>', $active), PHP_EOL;
                     }else{
-                        echo '<li><a href="people">People</a></li>\n';
+                        echo '<li><a href="people">People</a></li>', PHP_EOL;
                     }
                     if ($navid==2){
-                        echo sprintf('<li %s><a href="research">Research</a></li>\n', $active);
+                        echo sprintf('<li %s><a href="research">Research</a></li>', $active),PHP_EOL;
                     }else{
-                        echo '<li><a href="research">Research</a></li>\n';
+                        echo '<li><a href="research">Research</a></li>',PHP_EOL;
                     }
                     if ($navid==3){
-                        echo sprintf('<li %s><a href="publication">Publications</a></li>\n', $active);
+                        echo sprintf('<li %s><a href="publication">Publications</a></li>', $active),PHP_EOL;
                     }else{
-                        echo '<li><a href="publications">Publications</a></li>\n';
+                        echo '<li><a href="publications">Publications</a></li>',PHP_EOL;
                     }
                     if ($navid==4){
-                        echo sprintf('<li %s><a href="dataset">Dataset</a></li>\n', $active);
+                        echo sprintf('<li %s><a href="dataset">Dataset</a></li>', $active),PHP_EOL;
                     }else{
-                        echo '<li><a href="dataset">Dataset</a></li>\n';
+                        echo '<li><a href="dataset">Dataset</a></li>',PHP_EOL;
                     }                                                                                
                     echo '</ul>
                     <form action="search" method = "get" class="navbar-form navbar-right">
