@@ -24,7 +24,7 @@ body {
 }
 .navbar-brand img{
 	height: 100%;
-	width:100%;
+	width: auto \9;
 }
 .navbar-form{
 	padding-right: 5px;
