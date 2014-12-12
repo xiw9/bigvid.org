@@ -1,4 +1,4 @@
-    <footer class="footer">
+<footer class="footer">
       <div class="container">
         <p >Mailing Address: Room 413-5, Computer Science Building, 825 Zhangheng Road, Pudong, Shanghai 201203, China.   Tel: +86-21-51355532
         </p>

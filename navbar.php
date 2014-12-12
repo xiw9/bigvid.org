@@ -1,6 +1,7 @@
  <?php
 function print_navbar($navid){
-    echo '<header>
+    echo '
+    <header>
         <div class="navbar navbar-material-white">
             <div class="container"> 
                 <div class="navbar-header">
@@ -12,7 +13,7 @@ function print_navbar($navid){
                     <a class="navbar-brand" href="/"><img src="img/bigvid.png" alt="BigVid Lab"></a>
                 </div>
                 <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav">';
+                    <ul class="nav navbar-nav">', PHP_EOL;
                     $active='class="active"';
                     if ($navid==0){
                         echo sprintf('<li %s><a href="/">Home</a></li>', $active), PHP_EOL;
@@ -39,7 +40,8 @@ function print_navbar($navid){
                     }else{
                         echo '<li><a href="dataset">Dataset</a></li>',PHP_EOL;
                     }                                                                                
-                    echo '</ul>
+                    echo '
+                    </ul>
                     <form action="search" method = "get" class="navbar-form navbar-right">
                         <input type="text" name ="q" size="25" autocomplete="off" class="form-control col-lg-8" placeholder="Search"/>
                     </form>
