@@ -1,7 +1,6 @@
  <?php
 function print_navbar($navid){
-    echo '
-    <header>
+    echo '<header>
         <div class="navbar navbar-material-white">
             <div class="container"> 
                 <div class="navbar-header">
@@ -16,36 +15,34 @@ function print_navbar($navid){
                     <ul class="nav navbar-nav">';
                     $active='class="active"';
                     if ($navid==0){
-                        echo sprintf('<li %s><a href="/">Home</a></li>', $active);
+                        echo sprintf('<li %s><a href="/">Home</a></li>\n', $active);
                     }else{
-                        echo '<li><a href="/">Home</a></li>';
+                        echo '<li><a href="/">Home</a></li>\n';
                     }
                     if ($navid==1){
-                        echo sprintf('<li %s><a href="people">People</a></li>', $active);
+                        echo sprintf('<li %s><a href="people">People</a></li>\n', $active);
                     }else{
-                        echo '<li><a href="people">People</a></li>';
+                        echo '<li><a href="people">People</a></li>\n';
                     }
                     if ($navid==2){
-                        echo sprintf('<li %s><a href="research">Research</a></li>', $active);
+                        echo sprintf('<li %s><a href="research">Research</a></li>\n', $active);
                     }else{
-                        echo '<li><a href="research">Research</a></li>';
+                        echo '<li><a href="research">Research</a></li>\n';
                     }
                     if ($navid==3){
-                        echo sprintf('<li %s><a href="publication">Publications</a></li>', $active);
+                        echo sprintf('<li %s><a href="publication">Publications</a></li>\n', $active);
                     }else{
-                        echo '<li><a href="publications">Publications</a></li>';
+                        echo '<li><a href="publications">Publications</a></li>\n';
                     }
                     if ($navid==4){
-                        echo sprintf('<li %s><a href="dataset">Dataset</a></li>', $active);
+                        echo sprintf('<li %s><a href="dataset">Dataset</a></li>\n', $active);
                     }else{
-                        echo '<li><a href="dataset">Dataset</a></li>';
+                        echo '<li><a href="dataset">Dataset</a></li>\n';
                     }                                                                                
-                    echo '
-                    </ul>
-                    <form action="search.html" method = "get" class="navbar-form navbar-right">
+                    echo '</ul>
+                    <form action="search" method = "get" class="navbar-form navbar-right">
                         <input type="text" name ="q" size="25" autocomplete="off" class="form-control col-lg-8" placeholder="Search"/>
                     </form>
-
                 </div>
             </div>
         </div>

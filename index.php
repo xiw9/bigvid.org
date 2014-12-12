@@ -1,4 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <?php include 'header.php'; print_header('BigVid Lab'); ?>
+</head>
 <body>
     <?php include 'navbar.php'; print_navbar(0); ?>
     <div class="container">
@@ -7,10 +11,10 @@
                 <div id="carousel" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="img/header-2.jpg" alt="Scenery of Shanghai">
+                            <a href="http://yugangjiang.info/"><img src="img/header-2.jpg" alt="Scenery of Shanghai"></a>
                             <div class="container">
                                 <div class="carousel-caption">
-                                    <p><a href="http://yugangjiang.info/">Cras justo odio, dapibus ac facilisis in, egestas eget quam.</a></p>
+                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
                                 </div>
                             </div>
                         </div>
