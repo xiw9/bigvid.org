@@ -10,6 +10,7 @@
             <div class="col-xs-6">
             	<div class="well">
     				<h2>Graduate Students</h2>
+                    <hr>
     				<ul>
     					<li>Qi Dai (PhD 2011-)</li>
     					<li>Hao Ye (PhD 2009-, co-advised)</li>
@@ -26,6 +27,7 @@
     			</div>
             	<div class="well">
             		<h2>Undergraduate Students</h2>
+                    <hr>
             		<ul>
             			<li>Qibin Lou</li>
             		</ul>
@@ -34,6 +36,7 @@
 			<div class="col-xs-6">
 				<div class="well">
 					<h2>Alumni</h2>
+                    <hr>
 					<ul>
 						<li>Yingbin Zheng (PhD 2013, co-advised), SAP Labs Shanghai</li>
 						<li>Jian Pu (PhD 2014, co-advised), Institute of Neuroscience, CAS</li>
