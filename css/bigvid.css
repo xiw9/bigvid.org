@@ -19,14 +19,15 @@ body {
 	margin-bottom: 30px;
 }
 .navbar-brand{
-	padding-top: 4px;
-	padding-bottom: 6px;
+	padding-top: 6px;
+	padding-bottom: 4px;
+	height: 70px;
 }
 .navbar-brand img{
 	height: 100%;
 	width: auto \9;
 }
-.navbar-form{
+.navbar .navbar-form{
 	padding-right: 5px;
 	margin-top: 20px;
 }
@@ -46,6 +47,7 @@ body {
 .carousel-inner:hover{
 	box-shadow:0 3px 10px rgba(0,0,0,.34),0 3px 10px rgba(0,0,0,.27)
 }
+
 .carousel{
 	padding-bottom: 20px;
 }

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<?php include 'header.php'; print_header('BigVid Lab'); ?>
+<?php include 'header.php'; print_header('BigVid Lab - Lab for Big Video Data Analytics'); ?>
 </head>
 <body>
     <?php include 'navbar.php'; print_navbar(0); ?>

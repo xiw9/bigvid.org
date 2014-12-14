@@ -25,11 +25,6 @@ function print_navbar($navid){
                     }else{
                         echo '<li><a href="people">People</a></li>', PHP_EOL;
                     }
-                    if ($navid==2){
-                        echo sprintf('<li %s><a href="research">Research</a></li>', $active),PHP_EOL;
-                    }else{
-                        echo '<li><a href="research">Research</a></li>',PHP_EOL;
-                    }
                     if ($navid==3){
                         echo sprintf('<li %s><a href="publication">Publications</a></li>', $active),PHP_EOL;
                     }else{

@@ -1,7 +1,6 @@
 <footer class="footer">
       <div class="container">
-        <p >Mailing Address: Room 413-5, Computer Science Building, 825 Zhangheng Road, Pudong, Shanghai 201203, China.   Tel: +86-21-51355532
-        </p>
+        <p></p>
         <p>All the materials shared on this website are to ensure timely dissemination of scholarly and technical works. Copyright and all rights therein are retained by BigVid Lab or by other copyright holders. People who copy these materials are expected to adhere to the corresponding terms and constraints. These works may not be reposted without the explicit permission of the copyright holders. </p>
       </div>
     </footer>

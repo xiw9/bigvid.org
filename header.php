@@ -7,7 +7,11 @@ function print_header($title){
     echo $title;
     echo '</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="Lab for Big Video Data Analytics">
+    <meta name="author" content="BigVid Lab, Fudan University">
+    <meta name="keywords" content="Computer Science">
 
+    <link rel="shortcut icon" href="img/logo.ico">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/ripples.min.css" rel="stylesheet">
     <link href="css/material.css" rel="stylesheet">
