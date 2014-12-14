@@ -26,7 +26,7 @@ function print_navbar($navid){
                         echo '<li><a href="people">People</a></li>', PHP_EOL;
                     }
                     if ($navid==3){
-                        echo sprintf('<li %s><a href="publication">Publications</a></li>', $active),PHP_EOL;
+                        echo sprintf('<li %s><a href="publications">Publications</a></li>', $active),PHP_EOL;
                     }else{
                         echo '<li><a href="publications">Publications</a></li>',PHP_EOL;
                     }
