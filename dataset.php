@@ -6,7 +6,7 @@
 <body>
 	<?php include 'navbar.php'; print_navbar(4); ?>
 	<div class="container">
-		<div class="well">
+		<div class="row">
 			<div class="list-group">
 				<div class="list-group-item">
 					<div class="row-picture">
