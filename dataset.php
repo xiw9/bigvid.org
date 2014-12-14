@@ -7,30 +7,37 @@
 	<?php include 'navbar.php'; print_navbar(4); ?>
 	<div class="container">
 		<div class="row">
-			<div class="list-group">
-				<div class="list-group-item">
-					<div class="row-picture">
-						<img class="bordered" src="img/VCDB.jpg">
-					</div>
-					<div class="row-content">
-						<p class="list-group-item-text"><a href="http://yugangjiang.info/research/VCDB/index.html">
-							VCDB: a large-scale database for partial copy detection in videos</a></p>
-						<p class="list-group-item-text"><a href="http://yugangjiang.info/publication/eccv14-VCDB.pdf">
-							ECCV 2014 paper</a></p>
-					</div>
-				</div>
-				<div class="list-group-item">
-					<div class="row-picture">
-						<img class="bordered" src="img/VideoEmotions.jpg">
-					</div>
-					<div class="row-content">
-						<p class="list-group-item-text"><a href="http://yugangjiang.info/research/VideoEmotions/index.html">
-							Dataset for predicting video emotions</a></p>
-						<p class="list-group-item-text"><a href="http://yugangjiang.info/publication/aaai14-emotions.pdf">
-							AAAI 2014 paper</a></p>
-					</div>
-				</div>
-			</div>
+<TABLE cellSpacing=7 width=960 border=0 >
+  <TBODY>
+    	<TR>
+	  <TD width=100 >
+	  <IMG width=88 src="img/VCDB.jpg">
+	  </TD>
+	  <TD valign=center>
+			<a href="http://yugangjiang.info/research/VCDB/index.html" target=_blank>VCDB: a large-scale database for partial copy detection in videos</a><br>
+			<A href="http://yugangjiang.info/publication/eccv14-VCDB.pdf" target=_blank>ECCV 2014 paper</A> 			
+		</TD>
+	</TR>
+    	<TR>
+	  <TD width=100 >
+	  <IMG width=88 src="img/VideoEmotions.jpg">
+	  </TD>
+	  <TD valign=center>
+			<a href="http://yugangjiang.info/research/VideoEmotions/index.html" target=_blank>Dataset for predicting video emotions</a><br>
+			<A href="http://yugangjiang.info/publication/aaai14-emotions.pdf" target=_blank>AAAI 2014 paper</A> 			
+		</TD>
+	</TR>
+	<TR>
+	  <TD width=100 >
+	  <IMG width=88 src="img/interestingness.jpg">
+	  </TD>
+	  <TD valign=center>
+			<a href="http://yugangjiang.info/research/interestingness/index.html" target=_blank>Dataset for predicting video interestingness</a><br>
+			<A href="http://yugangjiang.info/publication/aaai13-interestingness.pdf" target=_blank>AAAI 2013 paper</A> 			
+		</TD>
+	</TR>
+	</TBODY>
+</TABLE>
 		</div>
 	</div>
 	<?php include 'footer.php' ?>
