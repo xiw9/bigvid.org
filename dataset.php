@@ -6,8 +6,7 @@
 <body>
 	<?php include 'navbar.php'; print_navbar(4); ?>
 	<div class="container">
-		<div class="row">
-<TABLE cellSpacing=7 width=960 border=0 >
+<TABLE cellSpacing=8 border=0 >
   <TBODY>
     	<TR>
 	  <TD width=100 >
@@ -38,7 +37,6 @@
 	</TR>
 	</TBODY>
 </TABLE>
-		</div>
 	</div>
 	<?php include 'footer.php' ?>
 </body>
