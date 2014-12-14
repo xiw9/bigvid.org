@@ -6,6 +6,7 @@
 <body>
 <?php include 'navbar.php'; print_navbar(3); ?>
 <div class="container">
+	<div class="well">
 <h3>2014</h3>
 <div class="pub" id="mm14:videoclassification">
 <UL>
@@ -1211,6 +1212,7 @@ Title = {Modeling Local Interest Points for Semantic Detection and Video Search 
 BookTitle = {NIST TRECVID Workshop},
 Year = {2006}}</pre> 
 </UL>
+</div>
 </div>
 </div>
 <script xml:space="preserve"> 
