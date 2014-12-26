@@ -114,7 +114,7 @@
                 </div>
             </div>
         </div>  
-        <div class="row">
+        <div class="row index-sponser">
             <p class="text-center">We gratefully acknowledge the funding support from NSF China, Ministry of Science & Technology, Ministry of Education, Shanghai Government, Huawei Technologies, ZTE Corporation and NTT.</p>
         </div>  
     </div>    
