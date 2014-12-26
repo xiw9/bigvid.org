@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<?php include 'header.php'; print_header('Dataset - BigVid Lab'); ?>
+	<?php include 'header.php'; print_header('Demo - BigVid Lab'); ?>
 </head>
 <body>
-	<?php include 'navbar.php'; print_navbar(4); ?>
+	<?php include 'navbar.php'; print_navbar(5); ?>
 	<div class="container">
 <TABLE cellSpacing=8 border=0 >
   <TBODY>

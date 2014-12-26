@@ -58,6 +58,7 @@
 				</div>
                 <div class="well">
                     <h2>Where are we</h2>
+                    <hr>
                     <p>Address: The 3rd Floor, Computer Science Building, 825 Zhangheng road, Pudong, Shanghai. </p>
                     <p>
                         Directions: 
@@ -70,8 +71,8 @@
                         Pudong airport also has <a href="http://en.wikipedia.org/wiki/Shanghai_Maglev_Train" target=_blank>high-speed MegLev train</a>, 
                         which takes 8 mins to downtown Longyang road station (10-15 mins to our campus by taxi).  
                     </p>
-                    
-                <iframe width="425" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=31.190502,121.598268&amp;spn=0.005507,0.00912&amp;z=16&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=31.190502,121.598268&amp;spn=0.005507,0.00912&amp;z=16&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+                <iframe width="450" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=31.190502,121.598268&amp;spn=0.005507,0.00912&amp;z=16&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=31.190502,121.598268&amp;spn=0.005507,0.00912&amp;z=16&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
                 </div>
 			</div>

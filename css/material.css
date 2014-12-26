@@ -2290,7 +2290,7 @@ h6 {
 a,
 a:hover,
 a:focus {
-  color: #009587;
+  /*color: #009587;*/
 }
 body .well,
 .container .well,

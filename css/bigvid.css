@@ -122,6 +122,7 @@ body .well, .container .well, .container-fluid .well{
 	width: 98%;
 }
 .index-sponser{
+	padding-top: 20px;
 	width: 650px;
 	margin: 0 auto;
 }
