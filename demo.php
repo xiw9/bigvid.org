@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<?php include 'header.php'; print_header('Demo - BigVid Lab'); ?>
-	<link href="http://vjs.zencdn.net/4.11/video-js.css" rel="stylesheet">
-	<script src="http://vjs.zencdn.net/4.11/video.js"></script>
+	<link href="css/video-js.css" rel="stylesheet">
+	<script src="js/video.js"></script>
 </head>
 <body>
 	<?php include 'navbar.php'; print_navbar(5); ?>
