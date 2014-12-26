@@ -34,7 +34,12 @@ function print_navbar($navid){
                         echo sprintf('<li %s><a href="dataset">Code & Dataset</a></li>', $active),PHP_EOL;
                     }else{
                         echo '<li><a href="dataset">Code & Dataset</a></li>',PHP_EOL;
-                    }                                                                                
+                    }
+                    if ($navid==5){
+                        echo sprintf('<li %s><a href="demo">Demo</a></li>', $active),PHP_EOL;
+                    }else{
+                        echo '<li><a href="demo">Demo</a></li>',PHP_EOL;
+                    }                                                                                                        
                     echo '
                     </ul>
                     <form action="search" method = "get" class="navbar-form navbar-right">
