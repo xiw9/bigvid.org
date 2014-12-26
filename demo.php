@@ -2,41 +2,48 @@
 <html lang="en">
 <head>
 	<?php include 'header.php'; print_header('Demo - BigVid Lab'); ?>
+	<link href="http://vjs.zencdn.net/4.11/video-js.css" rel="stylesheet">
+	<script src="http://vjs.zencdn.net/4.11/video.js"></script>
 </head>
 <body>
 	<?php include 'navbar.php'; print_navbar(5); ?>
 	<div class="container">
-<TABLE cellSpacing=8 border=0 >
-  <TBODY>
-    	<TR>
-	  <TD width=100 >
-	  <IMG width=88 src="img/VCDB.jpg">
-	  </TD>
-	  <TD valign=center>
-			<a href="http://yugangjiang.info/research/VCDB/index.html" target=_blank>VCDB: a large-scale database for partial copy detection in videos</a><br>
-			<A href="http://yugangjiang.info/publication/eccv14-VCDB.pdf" target=_blank>ECCV 2014 paper</A> 			
-		</TD>
-	</TR>
-    	<TR>
-	  <TD width=100 >
-	  <IMG width=88 src="img/VideoEmotions.jpg">
-	  </TD>
-	  <TD valign=center>
-			<a href="http://yugangjiang.info/research/VideoEmotions/index.html" target=_blank>Dataset for predicting video emotions</a><br>
-			<A href="http://yugangjiang.info/publication/aaai14-emotions.pdf" target=_blank>AAAI 2014 paper</A> 			
-		</TD>
-	</TR>
-	<TR>
-	  <TD width=100 >
-	  <IMG width=88 src="img/interestingness.jpg">
-	  </TD>
-	  <TD valign=center>
-			<a href="http://yugangjiang.info/research/interestingness/index.html" target=_blank>Dataset for predicting video interestingness</a><br>
-			<A href="http://yugangjiang.info/publication/aaai13-interestingness.pdf" target=_blank>AAAI 2013 paper</A> 			
-		</TD>
-	</TR>
-	</TBODY>
-</TABLE>
+		<h3>Organizing Video Search Results to Adapted Semantic Hierarchies [related paper]</h3>
+		<hr>
+		<video id="video1" class="video-js vjs-default-skin" controls
+		preload="auto" width="640" height="264" poster="MY_VIDEO_POSTER.jpg"
+		data-setup="{}">
+		<source src="MY_VIDEO.mp4" type='video/mp4'>
+		<source src="MY_VIDEO.webm" type='video/webm'>
+		<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+		</video>
+		<h3>Real-time Summarization of User-Generated Videos [related paper]</h3>
+		<hr>
+		<video id="video2" class="video-js vjs-default-skin" controls
+		preload="auto" width="640" height="264" poster="MY_VIDEO_POSTER.jpg"
+		data-setup="{}">
+		<source src="MY_VIDEO.mp4" type='video/mp4'>
+		<source src="MY_VIDEO.webm" type='video/webm'>
+		<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+		</video>
+		<h3>Fast Video Event Recognition and Its Application to Video Search [related paper]</h3>
+		<hr>
+		<video id="video3" class="video-js vjs-default-skin" controls
+		preload="auto" width="640" height="264" poster="MY_VIDEO_POSTER.jpg"
+		data-setup="{}">
+		<source src="MY_VIDEO.mp4" type='video/mp4'>
+		<source src="MY_VIDEO.webm" type='video/webm'>
+		<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+		</video>
+		<h3>Textually Describing Complex Video Contents [related paper]</h3>
+		<hr>
+		<video id="video4" class="video-js vjs-default-skin" controls
+		preload="auto" width="640" height="264" poster="MY_VIDEO_POSTER.jpg"
+		data-setup="{}">
+		<source src="MY_VIDEO.mp4" type='video/mp4'>
+		<source src="MY_VIDEO.webm" type='video/webm'>
+		<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+		</video>
 	</div>
 	<?php include 'footer.php' ?>
 </body>
