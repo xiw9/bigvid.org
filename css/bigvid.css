@@ -19,8 +19,8 @@ body {
 	margin-bottom: 30px;
 }
 .navbar .navbar-brand{
-	padding-top: 6px;
-	padding-bottom: 4px;
+	padding-top: 8px;
+	padding-bottom: 6px;
 }
 .navbar-brand img{
 	height: 100%;
@@ -28,7 +28,6 @@ body {
 }
 .navbar .navbar-form{
 	padding-right: 5px;
-	margin-top: 20px;
 }
 .navbar {
   border: none;
@@ -39,10 +38,7 @@ body {
 	float: right;
 	margin-left:120px;
 }
-.navbar .navbar-nav > li > a{
-	padding-top: 25px;
-	padding-bottom: 25px;
-}
+
 .carousel-inner:hover{
 	box-shadow:0 3px 10px rgba(0,0,0,.34),0 3px 10px rgba(0,0,0,.27)
 }
