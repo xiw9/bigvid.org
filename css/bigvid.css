@@ -117,9 +117,12 @@ body .well, .container .well, .container-fluid .well{
 	min-height: 0px;
 	width:calc(100% - 51px);
 }
-.list-group-separator:before{
+.list-news> .list-group-separator:before{
 	float: right;
 	width: 98%;
+}
+.list-dataset> .list-group-separator:before{
+	width: 100%;
 }
 .index-sponser{
 	padding-top: 15px;
