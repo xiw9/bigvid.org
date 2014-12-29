@@ -47,7 +47,7 @@
                     </ul>
 			</div>
 			<div class="col-xs-6">
-                    <div style="height:500px">
+                    <div style="height:200px">
                     </div>
                     <hr>
                     <h4>Where are we</h4>
