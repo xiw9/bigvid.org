@@ -72,21 +72,21 @@
                         <div class="list-group-item">
                             <div class="row-content">
                                 <div class="least-content">08/2014</div>
-                                <p class="list-group-item-text"><a href="http://www.icmr2015.org/" target=_blank>The website of ACM ICMR 2015</a> (June 23-26, Shanghai, China) is online.</p>
+                                <p class="list-group-item-text"><a href="http://www.icmr2015.org/" >The website of ACM ICMR 2015</a> (June 23-26, Shanghai, China) is online.</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>
                         <div class="list-group-item">
                             <div class="row-content">
                                 <div class="least-content">08/2014</div>
-                                <p class="list-group-item-text"><a href="research/VCDB/index.html" target=_blank>We have released VCDB</a>, the largest public dataset with manually annotated <b>real</b> partial video copies.</p>
+                                <p class="list-group-item-text"><a href="research/VCDB/index.html" >We have released VCDB</a>, the largest public dataset with manually annotated <b>real</b> partial video copies.</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>
                         <div class="list-group-item">
                             <div class="row-content">
                                 <div class="least-content">08/2014</div>
-                                <p class="list-group-item-text"><a href="http://crcv.ucf.edu/THUMOS14/home.html" target=_blank>The workshop of the 2nd THUMOS Action Recognition Challenge</a> will be held in conjunction with ECCV 2014</a>.</p>
+                                <p class="list-group-item-text"><a href="http://crcv.ucf.edu/THUMOS14/home.html" >The workshop of the 2nd THUMOS Action Recognition Challenge</a> will be held in conjunction with ECCV 2014.</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>                        
@@ -101,13 +101,6 @@
                             <div class="row-content">
                                 <div class="least-content">06/2014</div>
                                 <p class="list-group-item-text">Two papers accepted to ECCV 2014 - <a href="publications">check the publication page for pdf</a>.</p>
-                            </div>
-                        </div>
-                        <div class="list-group-separator"></div>
-                        <div class="list-group-item">
-                            <div class="row-content">
-                                <div class="least-content">01/2014</div>
-                                <p class="list-group-item-text"><a href="https://research.technicolor.com/rennes/vsd/" target=_blank>The violent scenes detection dataset used in MediaEval 2013 is available online</a>, jointly provided by Technicolor, Fudan, and UIT Vietnam.</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>
