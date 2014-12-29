@@ -12,7 +12,7 @@
 <UL>
 <LI>Zuxuan Wu, Yu-Gang Jiang, Jun Wang, Jian Pu, Xiangyang Xue<BR/>
 <b>Exploring Inter-feature and Inter-class Relationships with Deep Neural Networks for Video Classification</b>
-<A href="http://yugangjiang.info/publication/mm14-videoclassification.pdf" target=_blank>[pdf]</A> 
+<A href="publication/mm14-videoclassification.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('mm14:videoclassification')" class="togglebib">[bibtex]</a> 
 <BR/>   
 ACM Multimedia (ACM MM), Orlando, USA, Nov. 2014. (Full Paper)
@@ -28,9 +28,9 @@ Year      = {2014}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Yudong Jiang, Jiajun Wang<BR/>
 <b>VCDB: A Large-Scale Database for Partial Copy Detection in Videos</b>
-<A href="http://yugangjiang.info/publication/eccv14-VCDB.pdf" target=_blank>[pdf]</A>
+<A href="publication/eccv14-VCDB.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('eccv14:VCDB')" class="togglebib">[bibtex]</a> 
-<a href="http://yugangjiang.info/research/VCDB/index.html" target=_blank>[dataset]</a>
+<a href="research/VCDB/index.html" target=_blank>[dataset]</a>
 <BR/>   
 European Conference on Computer Vision (ECCV), 
 Zurich, Sept. 2014. 
@@ -46,7 +46,7 @@ Year      = {2014}}</pre>
 <UL>
 <LI>Jian Pu, Yu-Gang Jiang, Jun Wang, Xiangyang Xue<BR/>
 <b>Which Looks Like Which: Exploring Inter-Class Relationships in Fine-Grained Visual Categorization</b>
-<A href="http://yugangjiang.info/publication/eccv14-GMTL.pdf" target=_blank>[pdf]</A>
+<A href="publication/eccv14-GMTL.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('eccv14:GMTL')" class="togglebib">[bibtex]</a> 
 <BR/>   
 European Conference on Computer Vision (ECCV), 
@@ -63,9 +63,9 @@ Year      = {2014}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Baohan Xu, Xiangyang Xue<BR/>
 <b>Predicting Emotions in User-Generated Videos</b>
-<A href="http://yugangjiang.info/publication/aaai14-emotions.pdf" target=_blank>[pdf]</A> 
+<A href="publication/aaai14-emotions.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('aaai14:emotions')" class="togglebib">[bibtex]</a>
-<A href="http://yugangjiang.info/research/VideoEmotions/index.html" target=_blank>[project page & data]</A> 
+<A href="research/VideoEmotions/index.html" target=_blank>[project page & data]</A> 
 <BR/>   
 The 28th AAAI Conference on Artificial Intelligence (AAAI), Quebec City, Canada, Jul. 2014.
 <pre xml:space="preserve">@inproceedings{aaai14:emotions,
@@ -80,7 +80,7 @@ Year      = {2014}}</pre>
 <UL>
 <LI>Jiajun Wang, Yu-Gang Jiang, Qiang Wang, Kuiyuan Yang, Chong-Wah Ngo<BR/>
 <b>Organizing Video Search Results to Adapted Semantic Hierarchies for Topic-based Browsing</b>
-<A href="http://yugangjiang.info/publication/mm14-videosearch.pdf" target=_blank>[pdf]</A> 
+<A href="publication/mm14-videosearch.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('mm14:videosearch')" class="togglebib">[bibtex]</a> 
 <BR/>   
 ACM Multimedia (ACM MM), Orlando, USA, Nov. 2014. (Short Paper)<BR/>
@@ -97,7 +97,7 @@ Year      = {2014}}</pre>
 <UL>
 <LI>Xi Wang, Yu-Gang Jiang, Zhenhua Chai, Zichen Gu, Xinyu Du, Dong Wang<BR/>
 <b>Real-Time Summarization of User-Generated Videos Based on Semantic Recognition</b>
-<A href="http://yugangjiang.info/publication/mm14-videosumm.pdf" target=_blank>[pdf]</A> 
+<A href="publication/mm14-videosumm.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('mm14:videosumm')" class="togglebib">[bibtex]</a> 
 <BR/>   
 ACM Multimedia (ACM MM), Orlando, USA, Nov. 2014. (Short Paper)
@@ -113,7 +113,7 @@ Year      = {2014}}</pre>
 <UL>
 <LI>Zhiwei Jin, Juan Cao, Yu-Gang Jiang, Yongdong Zhang<BR/>
 <b>News Credibility Evaluation on Microblog with a Hierarchical Propagation Model</b>
-<A href="http://yugangjiang.info/publication/icdm14-newsCredibility.pdf" target=_blank>[pdf]</A> 
+<A href="publication/icdm14-newsCredibility.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('icdm14:newsCredibility')" class="togglebib">[bibtex]</a> 
 <BR/>   
 IEEE International Conference on Data Mining (ICDM), Shenzhen, China, Dec. 2014. (Full Regular Paper)
@@ -129,7 +129,7 @@ Year      = {2014}}</pre>
 <UL>
 <LI>Claire-Helene Demarty, Bogdan Ionescu, Yu-Gang Jiang, Vu Lam Quang, Markus Schedl, Cedric Penet<BR/>
 <b>Benchmarking Violent Scenes Detection in Movies</b>
-<A href="http://yugangjiang.info/publication/CBMI14_AffectTask.pdf" target=_blank>[pdf]</A> 
+<A href="publication/CBMI14_AffectTask.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('CBMI14:AffectTask')" class="togglebib">[bibtex]</a>
 <BR/>   
 The 12th International Workshop on Content-Based Multimedia Indexing (CBMI), Klagenfurt, Austria, Jun. 2014. 
@@ -146,7 +146,7 @@ Year      = {2014}}</pre>
 <LI>Jian Tu, Zuxuan Wu, Qi Dai, Yu-Gang Jiang, Xiangyang Xue<BR/>
 <B>Challenge Huawei Challenge: Fusing Multimodal Features with Deep Neural Networks
 for Mobile Video Annotation</B>
-<A href="http://yugangjiang.info/publication/icme14-huawei.pdf" target=_blank>[pdf]</A>
+<A href="publication/icme14-huawei.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('icme14:huawei')" class="togglebib">[bibtex]</a>
 <BR/>
 IEEE International Conference on Multimedia &amp; Expo (ICME), Chengdu, China, Jul. 2014. (Grand Challenge Session)<BR/>
@@ -163,7 +163,7 @@ Year = {2014}}</pre>
 <UL>
 <LI>Mats Sjoberg, Bogdan Ionescu, Yu-Gang Jiang, Vu Lam Quang, Markus Schedl, Claire-Helene Demarty<BR/>
 <b>The MediaEval 2014 Affect Task: Violent Scenes Detection</b>
-<A href="http://yugangjiang.info/publication/MediaEval2014_AffectTaskDescription.pdf" target=_blank>[pdf]</A> 
+<A href="publication/MediaEval2014_AffectTaskDescription.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('MediaEval2014:AffectTaskDescription')" class="togglebib">[bibtex]</a>
 <BR/>   
 MediaEval 2014 Workshop, Barcelona, Spain, Oct. 2014. (Task Overview Paper)
@@ -179,7 +179,7 @@ Year      = {2014}}</pre>
 <UL>
 <LI>Qi Dai, Zuxuan Wu, Yu-Gang Jiang, Xiangyang Xue, Jinhui Tang<BR/>
 <b>Fudan-NJUST at MediaEval 2014: Violent Scenes Detection Using Deep Neural Networks</b>
-<A href="http://yugangjiang.info/publication/MediaEval2014-Fudan-NJUST.pdf" target=_blank>[pdf]</A> 
+<A href="publication/MediaEval2014-Fudan-NJUST.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('MediaEval2014:Fudan')" class="togglebib">[bibtex]</a>
 <BR/>   
 MediaEval 2014 Workshop, Barcelona, Spain, Oct. 2014. <BR/>
@@ -196,7 +196,7 @@ Year      = {2014}}</pre>
 <UL>
 <LI>Hanli Wang, Ming Ma, Yu-Gang Jiang, Zhihua Wei<BR/>
 <b>A Framework of Video Coding for Compressing Near-Duplicate Videos</b>
-<A href="http://yugangjiang.info/publication/mmm14-ndvcoding.pdf" target=_blank>[pdf]</A> 
+<A href="publication/mmm14-ndvcoding.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('mmm14:ndvcoding')" class="togglebib">[bibtex]</a>
 <BR/>   
 International Conference on Multimedia Modeling (MMM), Dublin, Ireland, Jan. 2014.
@@ -212,7 +212,7 @@ Year = {2014}}</pre>
 <UL>
 <LI>Song Tan, Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <B>Placing Videos on a Semantic Hierarchy for Search Result Navigation</B>
-<A href="http://yugangjiang.info/publication/TOMCCAP-videosearch.pdf" target=_blank>[pdf]</A>
+<A href="publication/TOMCCAP-videosearch.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('TOMCCAP:videosearch')" class="togglebib">[bibtex]</a>
 <BR/>
 ACM Transactions on Multimedia Computing, Communications and Applications, vol. 10, issue 4, 2014.<BR/>
@@ -230,7 +230,7 @@ Year = {2014}}</pre>
 <UL>
 <LI>Feng Wang, Zhanhu Sun, Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <B>Video Event Detection Using Motion Relativity and Feature Selection</B>
-<A href="http://yugangjiang.info/publication/TMM_eventdetection.pdf" target=_blank>[pdf]</A>
+<A href="publication/TMM_eventdetection.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('TMM:eventdetection')" class="togglebib">[bibtex]</a>
 <BR/>
 IEEE Transactions on Multimedia, vol. 16, issue 5, pp. 1303-1315, 2014.
@@ -249,7 +249,7 @@ Year = {2014}}</pre>
 <UL>
 <LI>I-Hong Jhuo, Guangnan Ye, Shenghua Gao, Dong Liu, Yu-Gang Jiang, D. T. Lee, Shih-Fu Chang<BR/>
 <B>Discovering Joint Audio-Visual Codewords for Video Event Detection</B>
-<A href="http://yugangjiang.info/publication/MVA-audiovisual.pdf" target=_blank>[pdf]</A>
+<A href="publication/MVA-audiovisual.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('MVA:audiovisual')" class="togglebib">[bibtex]</a>
 <BR/>
 Machine Vision and Applications, vol. 25, issue 1, pp. 33-47, 2014.<BR/>
@@ -268,7 +268,7 @@ Year = {2014}}</pre>
 <UL>
 <LI>Hanli Wang, Fengkuangtian Zhu, Bo Xiao, Lei Wang, Yu-Gang Jiang<BR/>
 <B>GPU-based MapReduce for Large-scale Near-duplicate Video Retrieval</B>
-<A href="http://yugangjiang.info/publication/MTA-GPUMapReduce.pdf" target=_blank>[pdf]</A>
+<A href="publication/MTA-GPUMapReduce.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('MTA:GPUMapReduce')" class="togglebib">[bibtex]</a>
 <BR/>
 Multimedia Tools and Applications, accepted.<BR/>
@@ -287,7 +287,7 @@ Year = {to appear}}</pre>
 <UL>
 <LI>Zhi-Neng Chen, Chong-Wah Ngo, Wei Zhang, Juan Cao, Yu-Gang Jiang<BR/>
 <B>Name-Face Association in Web Videos: A Large-Scale Dataset, Baselines, and Open Issues</B>
-<A href="http://yugangjiang.info/publication/JCST-nameface.pdf" target=_blank>[pdf]</A>
+<A href="publication/JCST-nameface.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('JCST:nameface')" class="togglebib">[bibtex]</a> 
 <A href="http://vireo.cs.cityu.edu.hk/WebV-Cele/" target=_blank>[project page & data]</A> 
 <BR/>
@@ -308,7 +308,7 @@ Year = {2014}}</pre>
 <UL>
 <LI>Buyue Qian, Xiang Wang, Nan Cao, Hongfei Li, Yu-Gang Jiang<BR/>
 <B>A Relative Similarity Based Method for Interactive Patient Risk Prediction</B>
-<A href="http://yugangjiang.info/publication/DMKD14-qian.pdf" target=_blank>[pdf]</A>
+<A href="publication/DMKD14-qian.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('DMKD:qian')" class="togglebib">[bibtex]</a> 
 <BR/>
 Data Mining and Knowledge Discovery (DMKD), accepted.<BR/>
@@ -329,9 +329,9 @@ Year = {to appear}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Yanran Wang, Rui Feng, Xiangyang Xue, Yingbin Zheng, Hanfang Yang<BR/>
 <b>Understanding and Predicting Interestingness of Videos</b>
-<A href="http://yugangjiang.info/publication/aaai13-interestingness.pdf" target=_blank>[pdf]</A> 
+<A href="publication/aaai13-interestingness.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('aaai13:interestingness')" class="togglebib">[bibtex]</a>
-<A href="http://yugangjiang.info/research/interestingness/index.html" target=_blank>[project page & data]</A> 
+<A href="research/interestingness/index.html" target=_blank>[project page & data]</A> 
 <BR/>   
 The 27th AAAI Conference on Artificial Intelligence (AAAI), Bellevue, Washington, USA, Jul. 2013.
 <pre xml:space="preserve">@inproceedings{aaai13:interestingness,
@@ -346,7 +346,7 @@ Year      = {2013}}</pre>
 <UL>
 <LI>Jun Wang, Wei Liu, Andy X. Sun, Yu-Gang Jiang<BR/>
 <b>Learning Hash Codes with Listwise Supervision</b>
-<A href="http://yugangjiang.info/publication/iccv13_rsh.pdf" target=_blank>[pdf]</A> 
+<A href="publication/iccv13_rsh.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('iccv13:rsh')" class="togglebib">[bibtex]</a>
 <BR/>   
 IEEE International Conference on Computer Vision (ICCV), 
@@ -363,7 +363,7 @@ Year = {2013}}</pre>
 <UL>
 <LI>Jian Pu, Yu-Gang Jiang, Jun Wang, Xiangyang Xue<BR/>
 <b>Multiple Task Learning Using Iteratively Reweighted Least Square</b>
-<A href="http://yugangjiang.info/publication/ijcai13-MTLIRLS.pdf" target=_blank>[pdf]</A> 
+<A href="publication/ijcai13-MTLIRLS.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('ijcai13:MTLIRLS')" class="togglebib">[bibtex]</a> 
 <BR/>   
 The 23rd International Joint Conference on Artificial Intelligence (IJCAI), Beijing, China, Aug. 2013.
@@ -379,7 +379,7 @@ Year      = {2013}}</pre>
 <UL>
 <LI>Yanran Wang, Qi Dai, Rui Feng, Yu-Gang Jiang<BR/>
 <b>Beauty is Here: Evaluating Aesthetics in Videos Using Multimodal Features and Free Training Data</b>
-<A href="http://yugangjiang.info/publication/mm13-beauty.pdf" target=_blank>[pdf]</A> 
+<A href="publication/mm13-beauty.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('mm13:beauty')" class="togglebib">[bibtex]</a> 
 <A href="slides/mm13-beauty.zip" target=_blank>[slides and demo video]</a> 
 <BR/>   
@@ -396,7 +396,7 @@ Year      = {2013}}</pre>
 <UL>
 <LI>Junqiang Wang, Jinhui Tang, Yu-Gang Jiang<BR/>
 <b>Strong Geometry Consistency for Large Scale Partial-Duplicate Image Search</b>
-<A href="http://yugangjiang.info/publication/mm13-sgc.pdf" target=_blank>[pdf]</A> 
+<A href="publication/mm13-sgc.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('mm13:sgc')" class="togglebib">[bibtex]</a> 
 <BR/>   
 ACM Multimedia (ACM MM), Barcelona, Spain, Oct. 2013.
@@ -412,7 +412,7 @@ Year      = {2013}}</pre>
 <UL>
 <LI>Claire-Helene Demarty, Cedric Penet, Markus Schedl, Bogdan Ionescu, Vu Lam Quang, Yu-Gang Jiang<BR/>
 <b>The MediaEval 2013 Affect Task: Violent Scenes Detection</b>
-<A href="http://yugangjiang.info/publication/MediaEval2013_AffectTaskDescription.pdf" target=_blank>[pdf]</A> 
+<A href="publication/MediaEval2013_AffectTaskDescription.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('MediaEval2013:AffectTaskDescription')" class="togglebib">[bibtex]</a>
 <BR/>   
 MediaEval 2013 Workshop, Barcelona, Spain, Oct. 2013. (Task Overview Paper)
@@ -429,7 +429,7 @@ Year      = {2013}}</pre>
 <UL>
 <LI>Qi Dai, Jian Tu, Ziqiang Shi, Yu-Gang Jiang, Xiangyang Xue<BR/>
 <b>Fudan at MediaEval 2013: Violent Scenes Detection Using Motion Features and Part-Level Attributes</b>
-<A href="http://yugangjiang.info/publication/MediaEval2013_Fudan.pdf" target=_blank>[pdf]</A> 
+<A href="publication/MediaEval2013_Fudan.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('MediaEval2013:Fudan')" class="togglebib">[bibtex]</a>
 <BR/>   
 MediaEval 2013 Workshop, Barcelona, Spain, Oct. 2013. <BR/>
@@ -446,7 +446,7 @@ Year      = {2013}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Subhabrata Bhattacharya, Shih-Fu Chang, Mubarak Shah<BR/>
 <B>High-Level Event Recognition in Unconstrained Videos</B>
-<A href="http://yugangjiang.info/publication/IJMIR-EventSurvey.pdf" target=_blank>[pdf]</A>
+<A href="publication/IJMIR-EventSurvey.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('IJMIR:EventSurvey')" class="togglebib">[bibtex]</a>
 <BR/>
 International Journal of Multimedia Information Retrieval, vol. 2, issue 2, pp. 73-101, 2013.<BR/>
@@ -466,9 +466,9 @@ Year = {2013}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Jun Wang, Xiangyang Xue, Shih-Fu Chang<BR/>
 <B>Query-Adaptive Image Search with Hash Codes</B>
-<A href="http://yugangjiang.info/publication/TMM_queryadaptivesearch.pdf" target=_blank>[pdf]</A>
+<A href="publication/TMM_queryadaptivesearch.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('TMM:queryadaptivesearch')" class="togglebib">[bibtex]</a>
-<A href="http://yugangjiang.info/research/2013QueryAdaptiveImageSearch/index.html" target=_blank>[project page]</A>
+<A href="research/2013QueryAdaptiveImageSearch/index.html" target=_blank>[project page]</A>
 <BR/>
 IEEE Transactions on Multimedia, vol. 15, issue 2, pp. 442-453, 2013.
 <pre xml:space="preserve">@article{TMM:queryadaptivesearch,
@@ -487,7 +487,7 @@ Year = {2013}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Qi Dai, Xiangyang Xue, Wei Liu, Chong-Wah Ngo<BR/>
 <b>Trajectory-Based Modeling of Human Actions with Motion Reference Points</b>
-<A href="http://yugangjiang.info/publication/eccv12-actionmodeling.pdf" target=_blank>[pdf]</A>
+<A href="publication/eccv12-actionmodeling.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('eccv12:actionmodeling')" class="togglebib">[bibtex]</a>
 <BR/>   
 European Conference on Computer Vision (ECCV), 
@@ -504,7 +504,7 @@ Year      = {2012}}</pre>
 <UL>
 <LI>Yingbin Zheng, Yu-Gang Jiang, Xiangyang Xue<BR/>
 <b>Learning Hybrid Part Filters for Scene Recognition</b>
-<A href="http://yugangjiang.info/publication/eccv12-hybridparts.pdf" target=_blank>[pdf]</A>
+<A href="publication/eccv12-hybridparts.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('eccv12:hybridparts')" class="togglebib">[bibtex]</a>
 <BR/>   
 European Conference on Computer Vision (ECCV), 
@@ -521,7 +521,7 @@ Year      = {2012}}</pre>
 <UL>
 <LI>Wei Liu, Jun Wang, Rongrong Ji, Yu-Gang Jiang, Shih-Fu Chang<BR/>
 <b>Supervised Hashing with Kernels</b>
-<A href="http://yugangjiang.info/publication/CVPR12-KSH.pdf" target=_blank>[pdf]</A>
+<A href="publication/CVPR12-KSH.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('cvpr12:KSH')" class="togglebib">[bibtex]</A>
 <A href="http://www.ee.columbia.edu/ln/dvmm/downloads/WeiKSHCode/dlform.htm">[source code]</A>
 <BR/>   
@@ -539,7 +539,7 @@ Year      = {2012}}</pre>
 <UL>
 <LI>Yu-Gang Jiang<BR/>
 <b>SUPER: Towards Real-time Event Recognition in Internet Videos</b>
-<A href="http://yugangjiang.info/publication/icmr12-RealtimeEventRecognition.pdf" target=_blank>[pdf]</A> 
+<A href="publication/icmr12-RealtimeEventRecognition.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('icmr12:RealtimeEventRecognition')" class="togglebib">[bibtex]</a> 
 <A href="slides/icmr12-RealtimeEventRecognition.pptx" target=_blank>[slides]</A> 
 <BR/>   
@@ -557,7 +557,7 @@ Year      = {2012}}</pre>
 <UL>
 Demonstration:<BR/>
 <b>A Fast Video Event Recognition System and Its Application to Video Search</b>
-<A href="http://yugangjiang.info/publication/mm12-EventRecognitionDemo.pdf" target=_blank>[pdf]</A>
+<A href="publication/mm12-EventRecognitionDemo.pdf" target=_blank>[pdf]</A>
 <A href="slides/mm12-EventRecognitionDemo.zip" target=_blank>[slides and demo video]</A>
 <BR/>   
 ACM Multimedia (ACM MM), 
@@ -569,9 +569,9 @@ Nara, Japan, Oct. 2012. (Demo session)
 <UL>
 <LI>Yu-Gang Jiang, Qi Dai, Chun Chet Tan, Xiangyang Xue, Chong-Wah Ngo<BR/>
 <b>The Shanghai-Hongkong Team at MediaEval2012: Violent Scene Detection Using Trajectory-based Features</b>
-<A href="http://yugangjiang.info/publication/MediaEval2012_Shanghai-Hongkong-Team.pdf" target=_blank>[pdf]</A> 
+<A href="publication/MediaEval2012_Shanghai-Hongkong-Team.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('MediaEval2012:ShanghaiHongkong')" class="togglebib">[bibtex]</a>
-<A href="http://yugangjiang.info/research/2012MediaEval/index.html" target=_blank>[project page]</A> 
+<A href="research/2012MediaEval/index.html" target=_blank>[project page]</A> 
 <BR/>   
 MediaEval 2012 Workshop, Pisa, Italy, Oct. 4-5, 2012.<BR/>
 <font color=red>(top performance)</font>
@@ -587,7 +587,7 @@ Year      = {2012}}</pre>
 <UL>
 <LI>Guangnan Ye, I-Hong Jhuo, Dong Liu, Yu-Gang Jiang, D. T. Lee, Shih-Fu Chang<BR/>
 <b>Joint Audio-Visual Bi-Modal Codewords for Video Event Detection</b>
-<A href="http://yugangjiang.info/publication/icmr12-BiModalWords.pdf" target=_blank>[pdf]</A>
+<A href="publication/icmr12-BiModalWords.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('icmr12:BiModalWords')" class="togglebib">[bibtex]</a>
 <BR/>   
 ACM International Conference on Multimedia Retrieval (ICMR), 
@@ -604,7 +604,7 @@ Year      = {2012}}</pre>
 <UL>
 <LI>Shiai Zhu, Chong-Wah Ngo, Yu-Gang Jiang<BR/>
 <B>Sampling and Ontologically Pooling Web Images for Visual Concept Learning</B>
-<A href="http://yugangjiang.info/publication/tmm12_trainingset.pdf" target=_blank>[pdf]</A>
+<A href="publication/tmm12_trainingset.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('tmm12:trainingset')" class="togglebib">[bibtex]</a>
 <BR/>
 IEEE Transactions on Multimedia, vol. 14, issue 4, pp. 1068-1078, 2012.
@@ -623,7 +623,7 @@ Year = {2012}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Qi Dai, Jun Wang, Chong-Wah Ngo, Xiangyang Xue, Shih-Fu Chang<BR/>
 <B>Fast Semantic Diffusion for Large Scale Context-Based Image and Video Annotation</B>
-<A href="http://yugangjiang.info/publication/TIP12_Context.pdf" target=_blank>[pdf]</A>
+<A href="publication/TIP12_Context.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('TIP12:context')" class="togglebib">[bibtex]</a>
 <A href="http://www.ee.columbia.edu/ln/dvmm/researchProjects/MultimediaIndexing/DASD/dasd.htm" target=_blank>[project page & source code]</A><BR/>   
 IEEE Transactions on Image Processing, vol. 21, issue 6, pp. 3080-3091, 2012.
@@ -645,7 +645,7 @@ Year = {2012}}</pre>
 <UL>
 <LI>Chun-Chet Tan, Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <B>Towards Textually Describing Complex Video Contents with Audio-Visual Concept Classifiers</B>
-<A href="http://yugangjiang.info/publication/mm11_videorecounting.pdf" target=_blank>[pdf]</A>
+<A href="publication/mm11_videorecounting.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('acmmm11:videorecounting')" class="togglebib">[bibtex]</A>
 <A href="http://vireo.cs.cityu.edu.hk/papers/challenge_video.zip">[demo video]</A>
 <BR/>
@@ -662,7 +662,7 @@ Year = {2011}}</pre>
 <UL>
 <LI>Shiai Zhu, Chong-Wah Ngo, Yu-Gang Jiang<BR/>
 <B>On the Pooling of Positive Examples with Ontology for Visual Concept Learning</B>
-<A href="http://yugangjiang.info/publication/mm11_pooling.pdf" target=_blank>[pdf]</A>
+<A href="publication/mm11_pooling.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('acmmm11:pooling')" class="togglebib">[bibtex]</a>
 <BR/>
 ACM Multimedia (ACM MM), Arizona, USA, Nov. 2011.
@@ -678,11 +678,11 @@ Year = {2011}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Guangnan Ye, Shih-Fu Chang, Daniel Ellis, Alexander C. Loui<BR/>
 <b>Consumer Video Understanding: A Benchmark Database and An Evaluation of Human and Machine Performance</b>
-<A href="http://yugangjiang.info/publication/icmr11-consumervideo.pdf" target=_blank>[pdf]</A>
+<A href="publication/icmr11-consumervideo.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('icmr11:consumervideo')" class="togglebib">[bibtex]</a>
 <a href="http://www.ee.columbia.edu/dvmm/CCV/" target=_blank>[project page]</a>
 <A href="slides/icmr11-consumervideoslides.pdf" target=_blank >[slides]</A>
-<a href="http://yugangjiang.info/publication/icmr11-errata.txt" target=_blank>errata</a>
+<a href="publication/icmr11-errata.txt" target=_blank>errata</a>
 <BR/>   
 ACM International Conference on Multimedia Retrieval (ICMR), 
 Trento, Italy, Apr. 2011. (Oral session)
@@ -698,7 +698,7 @@ Year      = {2011}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Jun Wang, Shih-Fu Chang<BR/>
 <b>Lost in Binarization: Query-Adaptive Ranking for Similar Image Search with Compact Codes</b>
-<A href="http://yugangjiang.info/publication/icmr11-lostinbinarization.pdf" target=_blank>[pdf]</A>
+<A href="publication/icmr11-lostinbinarization.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('icmr11:lostinbinarization')" class="togglebib">[bibtex]</a>
 <A href="slides/icmr11-lostinbinarizationslides.pdf" target=_blank >[slides]</A>
 <BR/>   
@@ -716,7 +716,7 @@ Year      = {2011}}</pre>
 <UL>
 <LI>Wei Liu, Yu-Gang Jiang, Jiebo Luo, Shih-Fu Chang<BR/>
 <b>Noise Resistant Graph Ranking for Improved Web Image Search</b>
-<A href="http://yugangjiang.info/publication/cvpr11_reranking.pdf" target=_blank>[pdf]</A>
+<A href="publication/cvpr11_reranking.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('cvpr11:reranking')" class="togglebib">[bibtex]</a>
 <BR/>   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 
@@ -733,7 +733,7 @@ Year = {2011}}</pre>
 <UL CLASS="PUB">
 <LI>Cees G. M. Snoek, Koen E. A. van de Sande, Xirong Li, Masoud Mazloom, Yu-Gang Jiang, Dennis C. Koelma, Arnold W. M. Smeulders<BR/>
 <b>The MediaMill TRECVID 2011 Semantic Video Search Engine</b>
-<A href="http://yugangjiang.info/publication/trecvid2011.pdf" target=_blank>[pdf]</A>
+<A href="publication/trecvid2011.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('trecvid2011')" class="togglebib">[bibtex]</a>
 <BR/>   
 NIST TRECVID Workshop (TRECVID), 
@@ -751,7 +751,7 @@ Year = {2011}}</pre>
 <UL CLASS="PUB">
 <LI>Yu-Gang Jiang, Zhenguo Li, Shih-Fu Chang<BR/>
 <b>Modeling Scene and Object Contexts for Human Action Retrieval with Few Examples</b>
-<A href="http://yugangjiang.info/publication/tcsvt11_actioncontext.pdf" target=_blank>[pdf]</A>
+<A href="publication/tcsvt11_actioncontext.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('tcsvt:actioncontext')" class="togglebib">[bibtex]</a>
 <BR/>   
 IEEE Transactions on Circuits and Systems for Video Technology, vol. 21, issue 5, pp. 674-681, 2011.
@@ -770,7 +770,7 @@ Year = {2011}}</pre>
 <UL>
 <LI>Xiao-Yong Wei, Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <b>Concept-Driven Multi-Modality Fusion for Video Search</b>
-<A href="http://yugangjiang.info/publication/tcsvt_cdvs.pdf" target=_blank>[pdf]</A>
+<A href="publication/tcsvt_cdvs.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('tcsvt:cdvs')" class="togglebib">[bibtex]</a>
 <BR/>
 IEEE Transactions on Circuits and Systems for Video Technology, vol. 21, issue 1, pp. 62-73, 2011.
@@ -791,10 +791,10 @@ Year = {2011}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Jun Yang, Chong-Wah Ngo, Alexander G. Hauptmann<BR/>
 <B>Representations of Keypoint-Based Semantic Concept Detection: A Comprehensive Study</B>
-<A href="http://yugangjiang.info/publication/itm_yjiang.pdf" target=_blank>[pdf]</A> 
+<A href="publication/itm_yjiang.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('tmm10:yjiang')" class="togglebib">[bibtex]</a>
 <a href="http://vireo.cs.cityu.edu.hk/research/vireo374/" target=_blank>[project page]</a>
-<a href="http://yugangjiang.info/publication/tmm10-typo.txt" target=_blank>errata</a><BR/>
+<a href="publication/tmm10-typo.txt" target=_blank>errata</a><BR/>
 IEEE Transactions on Multimedia, vol. 12, issue 1, pp. 42-53, 2010.<BR/>  
 <pre xml:space="preserve">@article{tmm10:yjiang,
 Author = {Jiang, Yu-Gang and Yang, Jun and Ngo, Chong-Wah and Hauptmann, Alexander G.},
@@ -810,7 +810,7 @@ Year = {2010}}</pre>
 <UL>  
 <LI>Yu-Gang Jiang, Xiaohong Zeng, Guangnan Ye, Subh Bhattacharya, Dan Ellis, Mubarak Shah, Shih-Fu Chang<BR/>
 <B>Columbia-UCF TRECVID2010 Multimedia Event Detection: Combining Multiple Modalities, Contextual Concepts, and Temporal Matching</B>
-<A href="http://yugangjiang.info/publication/trecvid10_CUUCF.pdf" target=_blank>[pdf]</A> 
+<A href="publication/trecvid10_CUUCF.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('trecvid10:cuucf')" class="togglebib">[bibtex]</a>
 <A href="http://www.ee.columbia.edu/ln/dvmm/researchProjects/MultimediaIndexing/TRECVID2010MED/TRECVID2010MED.htm" target=_blank>[project page]</a>
 <A href="slides/TRECVID2010_MEDtalk_ColumbiaUCF.pdf" target=_blank>[slides]</A><BR/> 
@@ -829,7 +829,7 @@ Year = {2010}}</pre>
 <UL>
 <LI>Shiai Zhu, Gang Wang, Chong-Wah Ngo, Yu-Gang Jiang<BR/>
 <b>On the Sampling of Web Images for Learning Visual Concept Classifiers</b>
-<A href="http://yugangjiang.info/publication/civr10_sampling.pdf" target=_blank>[pdf]</A>
+<A href="publication/civr10_sampling.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('civr10:sampling')" class="togglebib">[bibtex]</a>
 <A href="http://vireo.cs.cityu.edu.hk/vireoweb81/" target=_blank>[project page]</A>
 <BR/>   
@@ -849,7 +849,7 @@ Year      = {2010}}</pre>
 <UL>
 <LI>Jun Wang, Eric Pohlmeyer, Barbara Hanna, Yu-Gang Jiang, Paul Sajda, Shih-Fu Chang<BR/>
 <b>Brain State Decoding for Rapid Image Retrieval</b>
-<A href="http://yugangjiang.info/publication/mm09_BCIVPM.pdf" target=_blank>[pdf]</A>
+<A href="publication/mm09_BCIVPM.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('acmmm09:bcivpm')" class="togglebib">[bibtex]</a>
 <BR/>   
 ACM Multimedia (ACM MM), 
@@ -866,7 +866,7 @@ Year = {2009}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Chong-Wah Ngo, Shih-Fu Chang<BR/>
 <b>Semantic Context Transfer across Heterogeneous Sources for Domain Adaptive Video Search</b>
-<A href="http://yugangjiang.info/publication/mm09_sct.pdf" target=_blank>[pdf]</A> 
+<A href="publication/mm09_sct.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('acmmm09:sct')" class="togglebib">[bibtex]</a>
 <A href="http://www.ee.columbia.edu/ln/dvmm/researchProjects/MultimediaIndexing/CBVS_FCS/CBVS_FCS.htm" target=_blank>[project page]</A><BR/>   
 ACM Multimedia (ACM MM), Beijing, China, Oct. 2009. (Full paper)
@@ -882,7 +882,7 @@ Year      = {2009}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Jun Wang, Shih-Fu Chang, Chong-Wah Ngo<BR/>
 <b>Domain Adaptive Semantic Diffusion for Large Scale Context-Based Video Annotation</b>
-<A href="http://yugangjiang.info/publication/iccv09_yjiang.pdf" target=_blank>[pdf]</A> 
+<A href="publication/iccv09_yjiang.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('iccv09:dasd')" class="togglebib">[bibtex]</a>
 <A href="http://www.ee.columbia.edu/ln/dvmm/researchProjects/MultimediaIndexing/DASD/dasd.htm" target=_blank>[project page & source code]</A><BR/>   
 IEEE International Conference on Computer Vision (ICCV), 
@@ -899,7 +899,7 @@ Year = {2009}}</pre>
 <UL>
 <LI>Jun Wang, Yu-Gang Jiang, Shih-Fu Chang<BR/>
 <b>Label Diagnosis through Self Tuning for Web Image Search</b>
-<A href="http://yugangjiang.info/publication/cvpr09_ldst.pdf" target=_blank>[pdf]</A> 
+<A href="publication/cvpr09_ldst.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('cvpr09:ldst')" class="togglebib">[bibtex]</a>
 <BR/>   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 
@@ -916,7 +916,7 @@ Year = {2009}}</pre>
 <UL>
 <LI>Xiao-Yong Wei, Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <b>Exploring Inter-Concept Relationship with Context Space for Semantic Video Indexing</b>
-<A href="http://yugangjiang.info/publication/civr09_wei.pdf" target=_blank>[pdf]</A>
+<A href="publication/civr09_wei.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('civr09:cs')" class="togglebib">[bibtex]</a>
 <BR/>   
 ACM International Conference on Image and Video Retrieval (CIVR), 
@@ -933,7 +933,7 @@ Year = {2009}}</pre>
 <UL>  
 <LI>Chong-Wah Ngo, Yu-Gang Jiang, Xiao-Yong Wei et al.<BR/>
 <B>VIREO/DVMM at TRECVID 2009: High-Level Feature Extraction, Automatic Video Search, and Content-Based Copy Detection</B>
-<A href="http://yugangjiang.info/publication/trec09_vireodvmm.pdf" target=_blank>[pdf]</A> 
+<A href="publication/trec09_vireodvmm.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('trecvid09:vireodvmm')" class="togglebib">[bibtex]</a>
 <A href="slides/trec09_yjiang.ppt" target=_blank>[slides]</A><BR/> 
 NIST TRECVID Workshop (TRECVID), 
@@ -950,7 +950,7 @@ Year = {2009}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <B>Visual Word Proximity and Linguistics for Semantic Video Indexing and Near-Duplicate Retrieval</B>
-<A href="http://yugangjiang.info/publication/cviu09_yjiang.pdf" target=_blank>[pdf]</A>
+<A href="publication/cviu09_yjiang.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('cviu09:yjiang')" class="togglebib">[bibtex]</a>
 <BR/>
 Computer Vision and Image Understanding, vol. 113, issue 3, pp. 405-414, 2009.
@@ -971,7 +971,7 @@ Year = {2009}}</pre>
 <UL>
 <LI>Feng Wang, Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <b>Video Event Detection Using Motion Relativity and Visual Relatedness</b>
-<A href="http://yugangjiang.info/publication/mm08_yjiang.pdf" target=_blank>[pdf]</A>  
+<A href="publication/mm08_yjiang.pdf" target=_blank>[pdf]</A>  
 <A shape="rect" href="javascript:togglebib('acmmm08:event')" class="togglebib">[bibtex]</a> 
 <A href="slides/mm08_yjiang.ppt" target=_blank>[slides]</A>
 <BR/> 
@@ -989,7 +989,7 @@ Year = {2008}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <B>Bag-of-Visual-Words Expansion Using Visual Relatedness for Video Indexing</B>
-<A href="http://yugangjiang.info/publication/sigir08_yjiang.pdf" target=_blank>[pdf]</A>
+<A href="publication/sigir08_yjiang.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('sigir08:bowe')" class="togglebib">[bibtex]</a>
 <BR/>
 ACM SIGIR Conference on Research & Development on Information Retrieval  
@@ -1006,7 +1006,7 @@ Year = {2008}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <B>Ontology-Based Visual Word Matching for Near-Duplicate Retrieval</B>
-<A href="http://yugangjiang.info/publication/icme08_yjiang.pdf" target=_blank>[pdf]</A>
+<A href="publication/icme08_yjiang.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('icme08:ndr')" class="togglebib">[bibtex]</a>
 <BR/>
 IEEE International Conference on Multimedia &amp; Expo (ICME), 
@@ -1023,7 +1023,7 @@ Year = {2008}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Akira Yanagawa, Shih-Fu Chang, Chong-Wah Ngo<BR/>
 <B>CU-VIREO374: Fusing Columbia374 and VIREO-374 for Large Scale Semantic Concept Detection</B>
-<A href="http://yugangjiang.info/publication/CU-VIREO374_TR.pdf" target=_blank>[pdf]</A> 
+<A href="publication/CU-VIREO374_TR.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('CUVIREO374:TR')" class="togglebib">[bibtex]</a> 
 <a href="http://www.ee.columbia.edu/dvmm/CU-VIREO374/" target=_blank>[project page]</a><BR/>
 Columbia University ADVENT Technical Report #223-2008-1, Aug. 2008.
@@ -1042,7 +1042,7 @@ Year = {2008}}
 <UL>  
 <LI>Shih-Fu Chang, Junfeng He, Yu-Gang Jiang, Elie El Khoury, Chong-Wah Ngo, Akira Yanagawa, Eric Zavesky<BR/>
 <B>Columbia University/VIREO-CityU/IRIT TRECVID2008 High-Level Feature Extraction and Interactive Video Search</B>
-<A href="http://yugangjiang.info/publication/trec08_columbia.pdf" target=_blank>[pdf]</A> 
+<A href="publication/trec08_columbia.pdf" target=_blank>[pdf]</A> 
 <A shape="rect" href="javascript:togglebib('trecvid08:cu')" class="togglebib">[bibtex]</a> 
 <A href="http://www.ee.columbia.edu/ln/dvmm/researchProjects/MultimediaIndexing/TRECVID2008HLF/TRECVID2008HLF.htm" target=_blank>[project page]</A> 
 <A href="slides/trec08_yjiang.ppt" target=_blank>[slides]</A><BR/>  
@@ -1061,7 +1061,7 @@ Year = {2008}}</pre>
 <UL>  
 <LI>Chong-Wah Ngo, Yu-Gang Jiang, Xiaoyong Wei et al.<BR/>
 <B>Beyond Semantic Search: What You Observe May Not Be What You Think</B>
-<A href="http://yugangjiang.info/publication/trec08_cityu.pdf" target=_blank>[pdf]</A>
+<A href="publication/trec08_cityu.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('trecvid08:cityu')" class="togglebib">[bibtex]</a> 
 <BR/>  
 NIST TRECVID Workshop (TRECVID), 
@@ -1078,7 +1078,7 @@ Year = {2008}}</pre>
 <UL>
 <LI>Xiao-Yong Wei, Chong-Wah Ngo, Yu-Gang Jiang<BR/>
 <B>Selection of Concept Detectors for Video Search by Ontology-Enriched Semantic Spaces</B>
-<A href="http://yugangjiang.info/publication/tmm08_yjiang.pdf" target=_blank>[pdf]</A>
+<A href="publication/tmm08_yjiang.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('tmm08:search')" class="togglebib">[bibtex]</a>
 <BR/>
 IEEE Transactions on Multimedia, vol. 10, issue 6, pp. 1085-1096, 2008.
@@ -1099,7 +1099,7 @@ Year = {2008}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Chong-Wah Ngo, Jun Yang<BR/>
 <B>Towards Optimal Bag-of-Features for Object Categorization and Semantic Video Retrieval</B>
-<A href="http://yugangjiang.info/publication/civr07_yjiang.pdf" target=_blank>[pdf]</A>
+<A href="publication/civr07_yjiang.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('civr07:bof')" class="togglebib">[bibtex]</a>
 <a href="http://vireo.cs.cityu.edu.hk/research/vireo374/" target=_blank>[project page]</a><BR/>
 ACM International Conference on Image and Video Retrieval (CIVR), 
@@ -1116,7 +1116,7 @@ Year = {2007}}</pre>
 <UL>
 <LI>Jun Yang, Yu-Gang Jiang, Alexander G. Hauptmann, Chong-Wah Ngo<BR/>
 <B>Evaluating Bag-of-Visual-Words Representations in Scene Classification</B>
-<A href="http://yugangjiang.info/publication/mir07_yang.pdf" target=_blank>[pdf]</A>
+<A href="publication/mir07_yang.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('mir07:bowsc')" class="togglebib">[bibtex]</a>
 <BR/>    
 ACM SIGMM Workshop on Multimedia Information Retrieval (MIR), 
@@ -1133,7 +1133,7 @@ Year = {2007}}</pre>
 <UL>  
 <LI>Chong-Wah Ngo, Yu-Gang Jiang, Xiaoyong Wei et al.<BR/>
 <B>Experimenting VIREO-374: Bag-of-Visual-Words and Visual-Based Ontology for Semantic Video Indexing and Search</B>
-<A href="http://yugangjiang.info/publication/trec07_yjiang.pdf" target=_blank >[pdf]</A>
+<A href="publication/trec07_yjiang.pdf" target=_blank >[pdf]</A>
 <A shape="rect" href="javascript:togglebib('trecvid07:cityu')" class="togglebib">[bibtex]</a> 
 <BR/>  
 NIST TRECVID Workshop (TRECVID), 
@@ -1152,9 +1152,9 @@ Year = {2007}}</pre>
 <UL>
 <LI>Chong-Wah Ngo, Wan-Lei Zhao, Yu-Gang Jiang<BR/>
 <B>Fast Tracking of Near-Duplicate Keyframes in Broadcast Domain with Transitivity Propagation</B>
-<A href="http://yugangjiang.info/publication/mm06_yjiang.pdf" target=_blank>[pdf]</A>
+<A href="publication/mm06_yjiang.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('acmmm06:ndk')" class="togglebib">[bibtex]</a>
-<a href="http://yugangjiang.info/research/NDK/ndk.html" target=_blank>[project page & software]</a><BR/>
+<a href="research/NDK/ndk.html" target=_blank>[project page & software]</a><BR/>
 ACM Multimedia (ACM MM), Santa Barbara, CA, USA, Oct. 2006. (Full paper)
 <pre xml:space="preserve">@inproceedings{acmmm06:ndk,
 Author = {Ngo, Chong-Wah and Zhao, Wan-Lei and Jiang, Yu-Gang},
@@ -1168,7 +1168,7 @@ Year = {2006}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Wan-Lei Zhao, Chong-Wah Ngo<BR/>
 <B>Exploring Semantic Concept Using Local Invariant Features</B>
-<A href="http://yugangjiang.info/publication/vip06_yjiang.pdf" target=_blank>[pdf]</A>
+<A href="publication/vip06_yjiang.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('vip06:esclif')" class="togglebib">[bibtex]</a>
 <BR/>
 Asia-Pacific Workshop on Visual Information Processing, Beijing, China, Nov. 2006. (Invited paper&talk)
@@ -1184,7 +1184,7 @@ Year = {2006}}</pre>
 <UL>  
 <LI>Wanlei Zhao, Yu-Gang Jiang, Chong-Wah Ngo<BR/>
 <B>Keyframe Retrieval by Keypoints: Can Point-to-Point Matching Help? </B>
-<A href="http://yugangjiang.info/publication/civr06_yjiang.pdf" target=_blank>[pdf]</A>
+<A href="publication/civr06_yjiang.pdf" target=_blank>[pdf]</A>
 <A shape="rect" href="javascript:togglebib('civr06:krk')" class="togglebib">[bibtex]</a>
 <BR/>
 International Conference on Image and Video Retrieval (CIVR), 
@@ -1201,7 +1201,7 @@ Year = {2006}}</pre>
 <UL>
 <LI>Yu-Gang Jiang, Xiaoyong Wei, Chong-Wah Ngo et al.<BR/>
 <B>Modeling Local Interest Points for Semantic Detection and Video Search at TRECVID 2006</B>
-<A href="http://yugangjiang.info/publication/trec06_yjiang.pdf" target=_blank >[pdf]</A>
+<A href="publication/trec06_yjiang.pdf" target=_blank >[pdf]</A>
 <A shape="rect" href="javascript:togglebib('trecvid06:cityu')" class="togglebib">[bibtex]</a> 
 <BR/>
 NIST TRECVID Workshop (TRECVID), 
