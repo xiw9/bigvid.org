@@ -126,7 +126,7 @@ body .well, .container .well, .container-fluid .well{
 	width: 650px;
 	margin: 0 auto;
 }
-.dataset>.row-picture img{
+.dataset>.list-group-item .row-picture img{
 	width: 88px;
 	height:auto;
 }
