@@ -116,7 +116,7 @@
             <IMG width=88 src="index.files/ViolentSceneDetection.jpg">
         </div>
         <div class="row-content">
-			<p><a  href="research/2012MediaEval/index.html">Violent scene detection in movies</a>p>
+			<p><a  href="research/2012MediaEval/index.html">Violent scene detection in movies</a><p>
         </div>
     </div>
 </div>
