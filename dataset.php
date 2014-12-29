@@ -78,7 +78,6 @@
     <div class="col-xs-6">
         <h4>Codes</h4>
         <div class="list-group list-dataset">
-            <div class="list-group-separator"></div>
             <div class="list-group-item">
                 <div class="row-picture">
                     <IMG  src="index.files/partattributes.png">
