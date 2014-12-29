@@ -104,20 +104,20 @@ body .well, .container .well, .container-fluid .well{
 .well{
 	font-size: 13px;
 }
-.list-news .list-group-item{
+.list-news> .list-group-item{
 	padding-left: 0px;
 	padding-right: 5px;
 	font-size: 12px;
 }
-.list-news .list-group-item .row-content .least-content{
+.list-news> .list-group-item .row-content .least-content{
 	right: 5px;
 	font-size: 12px;
 }
-.list-news .list-group-item .row-content{
+.list-news> .list-group-item .row-content{
 	min-height: 0px;
 	width:calc(100% - 51px);
 }
-.list-news .list-group-separator:before{
+.list-news> .list-group-separator:before{
 	float: right;
 	width: 98%;
 }
@@ -126,11 +126,11 @@ body .well, .container .well, .container-fluid .well{
 	width: 650px;
 	margin: 0 auto;
 }
-.list-dataset .list-group-item .row-picture img{
+.list-dataset> .list-group-item .row-picture img{
 	width: 88px;
 	height:auto;
 }
-.list-dataset .list-group-item .row-content{
+.list-dataset> .list-group-item .row-content{
 	width: calc(100% - 150px);
 	height: 90px;
 }
