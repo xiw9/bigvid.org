@@ -138,7 +138,7 @@ body .well, .container .well, .container-fluid .well{
 	width: calc(100% - 150px);
 	font-size: 13px;
 }
-.list-dataset> .list-group-separator{
+.list-dataset> .list-group-separator:before{
 	border-bottom:0px;
 }
 .footer {
