@@ -6,8 +6,7 @@
 <body>
 	<?php include 'navbar.php'; print_navbar(4); ?>
 	<div class="container">
-<h3>Code & Dataset</h3>
-<hr>
+
 <TABLE cellSpacing=8 border=0 >
   <TBODY>
     	<TR>
@@ -84,8 +83,7 @@
 	</TR>
 </TBODY>
 </TABLE>
-<h3>Selected other recent projects</h3>
-<hr>
+<h5>Selected other recent projects</h5>
 <TABLE cellSpacing=8 border=0 >
   <TBODY>
   <TR>
