@@ -4,6 +4,9 @@
 	<?php include 'header.php'; print_header('Demo - BigVid Lab'); ?>
 	<link href="css/video-js.css" rel="stylesheet">
 	<script src="js/video.js"></script>
+	<script>
+	  videojs.options.flash.swf = "http://bigvid.org/css/video-js.swf"
+	</script>
 </head>
 <body>
 	<?php include 'navbar.php'; print_navbar(5); ?>
