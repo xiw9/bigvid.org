@@ -32,7 +32,7 @@
 	</TR>
     	<TR>
 	  <TD width=100 >
-	  <IMG width=88 src="index.files/VideoEmotions.jpg">
+	  <IMG width=88 src="index.files/nameface.jpg">
 	  </TD>
 	  <TD valign=center>
 			<a href="http://vireo.cs.cityu.edu.hk/WebV-Cele/" >WebV-Cele: A Large-Scale Web Video Celebrities Dataset for Name-Face Association</a><br>
@@ -60,7 +60,7 @@
 	</TR>
 	<TR>
 	  <TD width=100 >
-	  <IMG width=88 src="index.files/partattributes.png">
+	  <IMG width=88 src="index.files/PSH.png">
 	  </TD>
 	  <TD valign=center>
 			<a href="http://www.ee.columbia.edu/ln/dvmm/downloads/WeiKSHCode/dlform.htm" >Supervised Hashing with Kernels</a><br>

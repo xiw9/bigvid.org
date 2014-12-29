@@ -100,7 +100,7 @@
                         <div class="list-group-item">
                             <div class="row-content">
                                 <div class="least-content">06/2014</div>
-                                <p class="list-group-item-text">Two papers accepted to ECCV 2014 - <a href="publication">check the publication page for pdf</a>.</p>
+                                <p class="list-group-item-text">Two papers accepted to ECCV 2014 - <a href="publications">check the publication page for pdf</a>.</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>
