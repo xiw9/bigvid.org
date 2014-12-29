@@ -32,20 +32,23 @@
             		<ul>
             			<li>Qibin Lou</li>
             		</ul>
+                    <hr>
+                    <h4>Alumni</h4>
+                    <ul>
+                        <li>Yingbin Zheng (PhD 2013, co-advised), SAP Labs Shanghai</li>
+                        <li>Jian Pu (PhD 2014, co-advised), Institute of Neuroscience, CAS</li>
+                        <li>Yudong Jiang (MS 2014), Alipay, Alibaba Group</li>
+                        <li>Yanran Wang (MS 2014), now at Northwestern University, USA</li>
+                    </ul>
+                    <ul>
+                        <li>Lixuan Zhu (BSc 2013), now at NYU</li>
+                        <li>Ziqiang Shi (BSc 2013), now at UCLA</li>
+                        <li>Tongtao Zhang (Visiting Student 2013), now at RPI</li>
+                    </ul>
 			</div>
 			<div class="col-xs-6">
-					<h4>Alumni</h4>
-					<ul>
-						<li>Yingbin Zheng (PhD 2013, co-advised), SAP Labs Shanghai</li>
-						<li>Jian Pu (PhD 2014, co-advised), Institute of Neuroscience, CAS</li>
-						<li>Yudong Jiang (MS 2014), Alipay, Alibaba Group</li>
-						<li>Yanran Wang (MS 2014), now at Northwestern University, USA</li>
-					</ul>
-					<ul>
-						<li>Lixuan Zhu (BSc 2013), now at NYU</li>
-						<li>Ziqiang Shi (BSc 2013), now at UCLA</li>
-						<li>Tongtao Zhang (Visiting Student 2013), now at RPI</li>
-					</ul>
+                    <div style="height:500px">
+                    </div>
                     <hr>
                     <h4>Where are we</h4>
                     <p>Address: The 3rd Floor, Computer Science Building, 825 Zhangheng road, Pudong, Shanghai. </p>
