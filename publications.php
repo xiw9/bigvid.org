@@ -7,7 +7,7 @@
 <?php include 'navbar.php'; print_navbar(3); ?>
 <div class="container">
 	<div class="well">
-<h4 style="margin-top:0px;">2014</h4>
+<h4>2014</h4>
 <div class="pub" id="mm14:videoclassification">
 <UL>
 <LI>Zuxuan Wu, Yu-Gang Jiang, Jun Wang, Jian Pu, Xiangyang Xue<BR/>
