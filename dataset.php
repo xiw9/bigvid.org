@@ -105,7 +105,7 @@
 		</TD>
 	</TR>	
 </TBODY>
-
+</TABLE>
 	</div>
 	<?php include 'footer.php' ?>
 </body>
