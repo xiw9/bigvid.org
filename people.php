@@ -8,15 +8,12 @@
     <div class="container">
     	<div class="row">
             <div class="col-xs-6">
-                <div class="well">
-                    <h2>Faculty</h2>
+                    <h4>Faculty</h4>
                     <hr>
                     <ul>
                         <li><a href="http://yugangjiang.info/">Yu-Gang Jiang</a></li>
                     </ul>
-                </div>
-            	<div class="well">
-    				<h2>Graduate Students</h2>
+    				<h4>Graduate Students</h4>
                     <hr>
     				<ul>
     					<li>Qi Dai (PhD 2011-)</li>
@@ -31,18 +28,14 @@
     					<li>Chen Chen (MS 2014-)</li>
     					<li>Qiang Wang (M.Eng. 2014-)</li>
     				</ul>
-    			</div>
-            	<div class="well">
-            		<h2>Undergraduate Students</h2>
+            		<h4>Undergraduate Students</h4>
                     <hr>
             		<ul>
             			<li>Qibin Lou</li>
             		</ul>
-				</div>
 			</div>
 			<div class="col-xs-6">
-				<div class="well">
-					<h2>Alumni</h2>
+					<h4>Alumni</h4>
                     <hr>
 					<ul>
 						<li>Yingbin Zheng (PhD 2013, co-advised), SAP Labs Shanghai</li>
@@ -55,9 +48,7 @@
 						<li>Ziqiang Shi (BSc 2013), now at UCLA</li>
 						<li>Tongtao Zhang (Visiting Student 2013), now at RPI</li>
 					</ul>
-				</div>
-                <div class="well">
-                    <h2>Where are we</h2>
+                    <h4>Where are we</h4>
                     <hr>
                     <p>Address: The 3rd Floor, Computer Science Building, 825 Zhangheng road, Pudong, Shanghai. </p>
                     <p>
@@ -74,7 +65,6 @@
 
                 <iframe width="450" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=31.190502,121.598268&amp;spn=0.005507,0.00912&amp;z=16&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=31.190502,121.598268&amp;spn=0.005507,0.00912&amp;z=16&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
-                </div>
 			</div>
 		</div>
     </div>

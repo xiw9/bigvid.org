@@ -7,7 +7,7 @@
 <?php include 'navbar.php'; print_navbar(3); ?>
 <div class="container">
 	<div class="well">
-<h3 style="margin-top:0px;">2014</h3>
+<h4 style="margin-top:0px;">2014</h4>
 <div class="pub" id="mm14:videoclassification">
 <UL>
 <LI>Zuxuan Wu, Yu-Gang Jiang, Jun Wang, Jian Pu, Xiangyang Xue<BR/>
@@ -324,7 +324,7 @@ Year = {to appear}}</pre>
 </div>
 
 
-<h3>2013</h3>
+<h4>2013</h4>
 <div class="pub" id="aaai13:interestingness">
 <UL>
 <LI>Yu-Gang Jiang, Yanran Wang, Rui Feng, Xiangyang Xue, Yingbin Zheng, Hanfang Yang<BR/>
@@ -482,7 +482,7 @@ Year = {2013}}</pre>
 </UL>
 </div>
 
-<h3>2012</h3>
+<h4>2012</h4>
 <div class="pub" id="eccv12:actionmodeling">
 <UL>
 <LI>Yu-Gang Jiang, Qi Dai, Xiangyang Xue, Wei Liu, Chong-Wah Ngo<BR/>
@@ -639,7 +639,7 @@ Year = {2012}}</pre>
 </div>
 
 
-<h3>2011</h3>
+<h4>2011</h4>
 
 <div class="pub" id="acmmm11:videorecounting"> 
 <UL>
@@ -785,7 +785,7 @@ Year = {2011}}</pre>
 </UL>
 </div>
 
-<h3>2010</h3>
+<h4>2010</h4>
 
 <div class="pub" id="tmm10:yjiang"> 
 <UL>
@@ -843,7 +843,7 @@ Year      = {2010}}</pre>
 </UL>
 </div>
 
-<h3>2009</h3>
+<h4>2009</h4>
 
 <div class="pub" id="acmmm09:bcivpm"> 
 <UL>
@@ -965,7 +965,7 @@ Year = {2009}}</pre>
 </div>
 
 
-<h3>2008</h3>
+<h4>2008</h4>
 
 <div class="pub" id="acmmm08:event"> 
 <UL>
@@ -1093,7 +1093,7 @@ Year = {2008}}</pre>
 </UL>
 </div>
 
-<h3>2007</h3>
+<h4>2007</h4>
 
 <div class="pub" id="civr07:bof"> 
 <UL>
@@ -1146,7 +1146,7 @@ Year = {2007}}</pre>
 </UL>
 </div>
 
-<h3>2006</h3>
+<h4>2006</h4>
 
 <div class="pub" id="acmmm06:ndk"> 
 <UL>
