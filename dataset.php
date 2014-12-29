@@ -83,7 +83,7 @@
 	</TR>
 </TBODY>
 </TABLE>
-<h5>Selected other recent projects</h5>
+<hr>
 <TABLE cellSpacing=8 border=0 >
   <TBODY>
   <TR>
@@ -106,6 +106,7 @@
 	</TR>	
 </TBODY>
 </TABLE>
+<hr>
 	</div>
 	<?php include 'footer.php' ?>
 </body>
