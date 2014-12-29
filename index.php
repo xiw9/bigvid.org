@@ -64,15 +64,22 @@
                     <div class="list-group list-news">
                         <div class="list-group-item">
                             <div class="row-content">
+                                <div class="least-content">12/2014</div>
+                                <p class="list-group-item-text">Prof. Yu-Gang Jiang received the prestigious <a href="index.files/2014 ACM China Rising Star Award.pdf" target="_blank">2014 ACM China Rising Star Award</a> (<a href="http://www.cs.fudan.edu.cn/?p=11524" target=_blank>school news in Chinese</a>).</p>
+                            </div>
+                        </div>
+                        <div class="list-group-separator"></div>
+                        <div class="list-group-item">
+                            <div class="row-content">
                                 <div class="least-content">11/2014</div>
-                                <p class="list-group-item-text"><a href="http://www.yugangjiang.info/publication/mm14-videosearch.pdf">Our paper</a> received best poster award at ACM Multimedia 2014.</p>
+                                <p class="list-group-item-text"><a href="publication/mm14-videosearch.pdf">Our paper</a> received best poster award at ACM Multimedia 2014.</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>
                         <div class="list-group-item">
                             <div class="row-content">
                                 <div class="least-content">08/2014</div>
-                                <p class="list-group-item-text"><a href="http://www.icmr2015.org/" >The website of ACM ICMR 2015</a> (June 23-26, Shanghai, China) is online.</p>
+                                <p class="list-group-item-text"><a href="http://www.icmr2015.org/" target="_blank">The website of ACM ICMR 2015</a> (June 23-26, Shanghai, China) is online.</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>
@@ -86,7 +93,7 @@
                         <div class="list-group-item">
                             <div class="row-content">
                                 <div class="least-content">08/2014</div>
-                                <p class="list-group-item-text"><a href="http://crcv.ucf.edu/THUMOS14/home.html" >The workshop of the 2nd THUMOS Action Recognition Challenge</a> will be held in conjunction with ECCV 2014.</p>
+                                <p class="list-group-item-text"><a href="http://crcv.ucf.edu/THUMOS14/home.html" target="_blank">The workshop of the 2nd THUMOS Action Recognition Challenge</a> will be held in conjunction with ECCV 2014.</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>                        
