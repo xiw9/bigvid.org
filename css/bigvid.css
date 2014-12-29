@@ -117,7 +117,7 @@ body .well, .container .well, .container-fluid .well{
 	min-height: 0px;
 	width:calc(100% - 51px);
 }
-.list-news> .list-group-separator:before{
+.list-group-separator:before{
 	float: right;
 	width: 98%;
 }
