@@ -61,7 +61,7 @@
                 <div class="well">
                     <h2>News & Events</h2>
                     <hr>
-                    <div class="list-group">
+                    <div class="list-group list-news">
                         <div class="list-group-item">
                             <div class="row-content">
                                 <div class="least-content">11/2014</div>
