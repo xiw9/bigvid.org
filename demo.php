@@ -12,7 +12,7 @@
 	<?php include 'navbar.php'; print_navbar(5); ?>
 	<div class="container">
 		<p>Organizing Video Search Results to Adapted Semantic Hierarchies</p>
-		<p>[related paper]</p>
+		<p>[<a href="publication/mm14-videosearch.pdf">related paper</a>]</p>
 		<video id="video1" class="video-js vjs-default-skin" controls
 		preload="none" width="640" height="360" poster="poster.jpg"
 		data-setup="{}">
@@ -22,7 +22,7 @@
 		</video>
 		<hr>
 		<p>Real-time Summarization of User-Generated Videos</p>
-		<p>[<a href="http://bigvid.xiw.im/publication/mm14-videosearch.pdf">related paper</a>]</p>
+		<p>[<a href="publication/mm14-videosumm.pdf">related paper</a>]</p>
 		<video id="video2" class="video-js vjs-default-skin" controls
 		preload="none" width="640" height="360" poster="poster.jpg"
 		data-setup="{}">
@@ -32,7 +32,7 @@
 		</video>
 		<hr>
 		<p>Fast Video Event Recognition and Its Application to Video Search</p>
-		<p>[related paper]</p>
+		<p>[<a href="publication/mm12-EventRecognitionDemo.pdf">related paper</a>]</p>
 		<video id="video3" class="video-js vjs-default-skin" controls
 		preload="none" width="640" height="360" poster="poster.jpg"
 		data-setup="{}">
@@ -42,7 +42,7 @@
 		</video>
 		<hr>
 		<p>Textually Describing Complex Video Contents</p>
-		<p>[related paper]</p>
+		<p>[<a href="publication/mm11_videorecounting.pdf">related paper</a>]</p>
 		<video id="video4" class="video-js vjs-default-skin" controls
 		preload="none" width="640" height="360" poster="poster.jpg"
 		data-setup="{}">

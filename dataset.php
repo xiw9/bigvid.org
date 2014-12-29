@@ -6,7 +6,9 @@
 <body>
 	<?php include 'navbar.php'; print_navbar(4); ?>
 	<div class="container">
-
+<div class="row">
+    <div class="col-xs-6">
+        <h4>Datasets</h4>
 <div class="list-group list-dataset">
     <div class="list-group-item">
         <div class="row-picture">
@@ -30,17 +32,17 @@
     <div class="list-group-separator"></div>
     <div class="list-group-item">
         <div class="row-picture">
-            <IMG width=88 src="index.files/nameface.png">
+            <IMG  src="index.files/nameface.png">
         </div>
         <div class="row-content">
 			<p><a href="http://vireo.cs.cityu.edu.hk/WebV-Cele/" >WebV-Cele: A Large-Scale Web Video Celebrities Dataset for Name-Face Association</a></p>
-			<p><A href="publication/JCST-nameface.pdf" >Journal of Computer Science and Technology</A> </p>
+			<p><A href="publication/JCST-nameface.pdf" >JCST 2014 paper</A> </p>
         </div>
     </div>
     <div class="list-group-separator"></div>
     <div class="list-group-item">
         <div class="row-picture">
-            <IMG width=88 src="index.files/interestingness.jpg">
+            <IMG  src="index.files/interestingness.jpg">
         </div>
         <div class="row-content">
 			<p><a href="research/interestingness/index.html" >Dataset for predicting video interestingness</a></p>
@@ -50,7 +52,7 @@
     <div class="list-group-separator"></div>
     <div class="list-group-item">
         <div class="row-picture">
-            <IMG width=88 src="index.files/partattributes.png">
+            <IMG  src="index.files/partattributes.png">
         </div>
         <div class="row-content">
 			<p><a href="research/2012PartAttribute/index.html" >Part-level attributes for visual recognition (source code)</a></p>
@@ -60,7 +62,7 @@
     <div class="list-group-separator"></div>
     <div class="list-group-item">
         <div class="row-picture">
-            <IMG width=88 src="index.files/KSH.png">
+            <IMG  src="index.files/KSH.png">
         </div>
         <div class="row-content">
 			<p><a href="http://www.ee.columbia.edu/ln/dvmm/downloads/WeiKSHCode/dlform.htm" >Supervised Hashing with Kernels</a></p>
@@ -70,16 +72,17 @@
     <div class="list-group-separator"></div>
     <div class="list-group-item">
         <div class="row-picture">
-            <IMG width=88 src="index.files/consumerVid.jpg">
+            <IMG  src="index.files/consumerVid.jpg">
         </div>
         <div class="row-content">
 			<p><a href="http://www.ee.columbia.edu/dvmm/CCV/" >CCV: a benchmark dataset for consumer video analysis</a></p>
+            <p><A href="publication/icmr11-consumervideo.pdf" >ICMR 2011 paper</A> </p>
         </div>
     </div>
     <div class="list-group-separator"></div>
     <div class="list-group-item">
         <div class="row-picture">
-            <img width=88 src="index.files/dasd_graph.jpg">
+            <img  src="index.files/dasd_graph.jpg">
         </div>
         <div class="row-content">
 			<p>	<A href="http://www.ee.columbia.edu/ln/dvmm/researchProjects/MultimediaIndexing/DASD/dasd.htm" >
@@ -103,7 +106,7 @@
     <div class="list-group-separator"></div>
     <div class="list-group-item">
         <div class="row-picture">
-            <IMG width=88 height=75 src="index.files/QAIS-idea.jpg">
+            <IMG  height=75 src="index.files/QAIS-idea.jpg">
         </div>
         <div class="row-content">
 			<p><a  href="research/2013QueryAdaptiveImageSearch/index.html">Query-adaptive image search with hash codes</a></p>
@@ -113,13 +116,16 @@
     <div class="list-group-separator"></div>
     <div class="list-group-item">
         <div class="row-picture">
-            <IMG width=88 src="index.files/ViolentSceneDetection.jpg">
+            <IMG  src="index.files/ViolentSceneDetection.jpg">
         </div>
         <div class="row-content">
 			<p><a  href="research/2012MediaEval/index.html">Violent scene detection in movies</a><p>
         </div>
     </div>
 </div>
+</div>
+</div>
+
 	</div>
 	<?php include 'footer.php' ?>
 </body>
