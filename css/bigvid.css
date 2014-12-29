@@ -136,7 +136,6 @@ body .well, .container .well, .container-fluid .well{
 }
 .list-dataset> .list-group-item .row-content{
 	width: calc(100% - 150px);
-	margin-top: 10px;
 	font-size: 13px;
 }
 .footer {
