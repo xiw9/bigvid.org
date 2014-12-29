@@ -7,27 +7,48 @@
 	<?php include 'navbar.php'; print_navbar(4); ?>
 	<div class="container">
 
+<div class="list-group dataset">
+    <div class="list-group-item">
+        <div class="row-picture">
+            <IMG src="index.files/VCDB.jpg">
+        </div>
+        <div class="row-content">
+			<p><a href="research/VCDB/index.html" >VCDB: a large-scale database for partial copy detection in videos</a></p>
+			<p><A href="publication/eccv14-VCDB.pdf" >ECCV 2014 paper</A> </p>		
+        </div>
+    </div>
+    <div class="list-group-separator"></div>
+    <div class="list-group-item">
+        <div class="row-picture">
+            <IMG src="index.files/VideoEmotions.jpg">
+        </div>
+        <div class="row-content">
+			<p><a href="research/VideoEmotions/index.html" >Dataset for predicting video emotions</a></p>
+			<p><A href="publication/aaai14-emotions.pdf" >AAAI 2014 paper</A> </p>
+        </div>
+    </div>
+    <div class="list-group-separator"></div>
+
+</div>
 
 
 <TABLE cellSpacing=8 border=0 >
   <TBODY>
     	<TR>
 	  <TD width=100 >
-	  <IMG width=88 src="index.files/VCDB.jpg">
+	  
 	  </TD>
 	  <TD valign=center>
-			<a href="research/VCDB/index.html" >VCDB: a large-scale database for partial copy detection in videos</a><br>
-			<A href="publication/eccv14-VCDB.pdf" >ECCV 2014 paper</A> 			
+	
 		</TD>
 	</TR>
 	
     	<TR>
 	  <TD width=100 >
-	  <IMG width=88 src="index.files/VideoEmotions.jpg">
+	  
 	  </TD>
 	  <TD valign=center>
-			<a href="research/VideoEmotions/index.html" >Dataset for predicting video emotions</a><br>
-			<A href="publication/aaai14-emotions.pdf" >AAAI 2014 paper</A> 			
+		
 		</TD>
 	</TR>
     	<TR>
