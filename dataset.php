@@ -6,6 +6,8 @@
 <body>
 	<?php include 'navbar.php'; print_navbar(4); ?>
 	<div class="container">
+<h3>Code & Dataset</h3>
+<hr>
 <TABLE cellSpacing=8 border=0 >
   <TBODY>
     	<TR>
@@ -17,7 +19,7 @@
 			<A href="publication/eccv14-VCDB.pdf" target=_blank>ECCV 2014 paper</A> 			
 		</TD>
 	</TR>
-	<hr>
+	
     	<TR>
 	  <TD width=100 >
 	  <IMG width=88 src="index.files/VideoEmotions.jpg">
@@ -27,7 +29,7 @@
 			<A href="publication/aaai14-emotions.pdf" target=_blank>AAAI 2014 paper</A> 			
 		</TD>
 	</TR>
-	<hr>
+	
 	<TR>
 	  <TD width=100 >
 	  <IMG width=88 src="index.files/interestingness.jpg">
@@ -37,7 +39,7 @@
 			<A href="publication/aaai13-interestingness.pdf" target=_blank>AAAI 2013 paper</A> 			
 		</TD>
 	</TR>
-	<hr>
+	
 	<TR>
 	  <TD width=100 >
 	  <IMG width=88 src="index.files/partattributes.png">
@@ -47,7 +49,7 @@
 			<A href="publication/eccv12-hybridparts.pdf" target=_blank>ECCV 2012 paper</A> 			
 		</TD>
 	</TR>
-	<hr>
+	
 	<TR>
 	  <TD width=100 >
 	  <IMG width=88 src="index.files/consumerVid.jpg">
@@ -56,7 +58,7 @@
 			<a href="http://www.ee.columbia.edu/dvmm/CCV/" target=_blank>CCV: a benchmark dataset for consumer video analysis</a><br>			
 		</TD>
 	</TR>
-	<hr>
+	
 	<TR>
 	  <TD width=100 >
 	  <img width=88 src="index.files/dasd_graph.jpg">
@@ -68,7 +70,7 @@
 	  <A href="http://www.ee.columbia.edu/ln/dvmm/researchProjects/MultimediaIndexing/DASD/DownloadRequest.php?set=code" target=_blank> source code</A>
 		</TD>
   </TR>
-  <hr>
+  
   <TR>
 	  <TD width=100 >
 	  <IMG src="index.files/vireo374.gif">
@@ -82,7 +84,8 @@
 	</TR>
 </TBODY>
 </TABLE>
-<h3>Selected other recent projects<h3>
+<h3>Selected other recent projects</h3>
+<hr>
 <TABLE cellSpacing=8 border=0 >
   <TBODY>
   <TR>
@@ -94,7 +97,7 @@
 			<br><a href="publication/TMM_queryadaptivesearch.pdf">IEEE TMM 2013 paper</a>			
 		</TD>
 	</TR>	 
-	 <hr> 
+	  
   <TR>
 	  <TD width=100 >
 	  <IMG width=88 src="index.files/ViolentSceneDetection.jpg">
