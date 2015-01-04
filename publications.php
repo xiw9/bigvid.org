@@ -7,6 +7,44 @@
 <?php include 'navbar.php'; print_navbar(3); ?>
 <div class="container">
 	<div class="well">
+<h4>2015</h4>
+<div class="pub" id="MTA:GPUMapReduce"> 
+<UL>
+  <LI>Hanli Wang, Fengkuangtian Zhu, Bo Xiao, Lei Wang, Yu-Gang Jiang<BR>
+  <B>GPU-based MapReduce for Large-scale Near-duplicate Video Retrieval</B>
+  <A href="publication/MTA-GPUMapReduce.pdf" target=_blank>[pdf]</A>
+  <A shape="rect" href="javascript:togglebib('MTA:GPUMapReduce')" class="togglebib">[bibtex]</a>
+  <BR>
+  Multimedia Tools and Applications, accepted.<br>
+  <pre xml:space="preserve">@article{MTA:GPUMapReduce,
+    Author    = {H. Wang and F. Zhu and B. Xiao and L. Wang and Y.-G. Jiang},
+    Title     = {GPU-based MapReduce for Large-scale Near-duplicate Video Retrieval},
+    Journal   = {Multimedia Tools and Applications},
+    Volume = {},
+    Number = {},
+    Pages = {},
+    Year = {to appear}}  </pre> 
+</UL>
+</div>
+
+<div class="pub" id="DMKD:qian"> 
+<UL>
+  <LI>Buyue Qian, Xiang Wang, Nan Cao, Hongfei Li, Yu-Gang Jiang<BR>
+  <B>A Relative Similarity Based Method for Interactive Patient Risk Prediction</B>
+  <A href="publication/DMKD15-qian.pdf" target=_blank>[pdf]</A>
+  <A shape="rect" href="javascript:togglebib('DMKD:qian')" class="togglebib">[bibtex]</a> 
+  <BR>
+  Data Mining and Knowledge Discovery (DMKD), accepted.<br>
+  <pre xml:space="preserve">@article{DMKD:qian,
+    Author    = {Buyue Qian and Xiang Wang and Nan Cao and Hongfei Li and Yu-Gang Jiang},
+    Title     = {A relative similarity based method for interactive patient risk prediction},
+    Journal   = {Data Mining and Knowledge Discovery (DMKD)},
+    Volume = {},
+    Number = {},
+    Pages = {},
+    Year = {to appear}}  </pre> 
+</UL>
+</div>
 <h4>2014</h4>
 <div class="pub" id="mm14:videoclassification">
 <UL>
