@@ -132,12 +132,16 @@ body .well, .container .well, .container-fluid .well{
 	margin: 0 auto;
 	font-size: 12px;
 }
+.list-dataset>  .list-group-item{
+	padding-right: 0px;
+	padding-left: 0px;
+}
 .list-dataset> .list-group-item .row-picture img{
 	width: 88px;
 	height:auto;
 }
 .list-dataset> .list-group-item .row-content{
-	width: calc(100% - 150px);
+	width: calc(100% - 110px);
 	font-size: 13px;
 }
 .list-dataset> .list-group-separator:before{
