@@ -22,21 +22,21 @@
             <div class="list-group-separator"></div>
             <div class="list-group-item">
                 <div class="row-picture">
-                    <IMG src="index.files/VideoEmotions.jpg">
-                </div>
-                <div class="row-content">
-        			<p><a href="research/VideoEmotions/index.html" >Dataset for predicting video emotions</a></p>
-        			<p><A href="publication/aaai14-emotions.pdf" >AAAI 2014 paper</A> </p>
-                </div>
-            </div>
-            <div class="list-group-separator"></div>
-            <div class="list-group-item">
-                <div class="row-picture">
                     <IMG  src="index.files/nameface.png">
                 </div>
                 <div class="row-content">
         			<p><a href="http://vireo.cs.cityu.edu.hk/WebV-Cele/" >WebV-Cele: A Large-Scale Web Video Celebrities Dataset for Name-Face Association</a></p>
         			<p><A href="publication/JCST-nameface.pdf" >JCST 2014 paper</A> </p>
+                </div>
+            </div>
+            <div class="list-group-separator"></div>
+            <div class="list-group-item">
+                <div class="row-picture">
+                    <IMG src="index.files/VideoEmotions.jpg">
+                </div>
+                <div class="row-content">
+                    <p><a href="research/VideoEmotions/index.html" >Dataset for predicting video emotions</a></p>
+                    <p><A href="publication/aaai14-emotions.pdf" >AAAI 2014 paper</A> </p>
                 </div>
             </div>
             <div class="list-group-separator"></div>

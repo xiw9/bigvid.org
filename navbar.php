@@ -31,9 +31,9 @@ function print_navbar($navid){
                         echo '<li><a href="publications">Publications</a></li>',PHP_EOL;
                     }
                     if ($navid==4){
-                        echo sprintf('<li %s><a href="dataset">Code & Dataset</a></li>', $active),PHP_EOL;
+                        echo sprintf('<li %s><a href="dataset">Dataset & Code</a></li>', $active),PHP_EOL;
                     }else{
-                        echo '<li><a href="dataset">Code & Dataset</a></li>',PHP_EOL;
+                        echo '<li><a href="dataset">Dataset & Code</a></li>',PHP_EOL;
                     }
                     if ($navid==5){
                         echo sprintf('<li %s><a href="demo">Demo</a></li>', $active),PHP_EOL;

@@ -65,7 +65,7 @@
                         <div class="list-group-item">
                             <div class="row-content">
                                 <div class="least-content">12/2014</div>
-                                <p class="list-group-item-text">Prof. Yu-Gang Jiang received the prestigious <a href="index.files/2014 ACM China Rising Star Award.pdf" target="_blank">2014 ACM China Rising Star Award</a> (<a href="http://www.cs.fudan.edu.cn/?p=11524" target=_blank>school news in Chinese</a>).</p>
+                                <p class="list-group-item-text">Prof. Yu-Gang Jiang received the prestigious 2014 ACM China Rising Star Award (<a href="http://www.cs.fudan.edu.cn/?p=11524" target=_blank>school news in Chinese</a>).</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>
@@ -86,7 +86,7 @@
                         <div class="list-group-item">
                             <div class="row-content">
                                 <div class="least-content">08/2014</div>
-                                <p class="list-group-item-text"><a href="research/VCDB/index.html" >We have released VCDB</a>, the largest public dataset with manually annotated <b>real</b> partial video copies.</p>
+                                <p class="list-group-item-text"><a href="research/VCDB/index.html" >We have released VCDB</a>, the largest public dataset with manually annotated real partial video copies.</p>
                             </div>
                         </div>
                         <div class="list-group-separator"></div>
