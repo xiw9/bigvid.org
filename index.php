@@ -11,7 +11,7 @@
                 <div id="carousel" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="item active">
-                            <a href="publication/mm14-videoclassification.pdf"><img src="img/mm14_2-hp.png" alt="Exploring Inter-feature and Inter-class Relationships with Deep Neural Networks for Video Classification"></a>
+                            <a href="publication/mm14-videoclassification.pdf"><img src="img/mm14_1-hp.png" alt="Exploring Inter-feature and Inter-class Relationships with Deep Neural Networks for Video Classification"></a>
                             <div class="container">
                                 <div class="carousel-caption">
                                     <p>Exploring Inter-feature and Inter-class Relationships with Deep Neural Networks for Video Classification</p>
@@ -19,7 +19,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <a href="http://bigvid.xiw.im/publication/mm14-videoclassification.pdf"><img src="img/mm14-hp.png" alt="Organizing Video Search Results to Adapted Semantic Hierarchies for Topic-based Browsing"></a>
+                            <a href="demo#mm14-2"><img src="img/mm14_2-hp.png" alt="Organizing Video Search Results to Adapted Semantic Hierarchies for Topic-based Browsing"></a>
                             <div class="container">
                                 <div class="carousel-caption">
                                     <p>Organizing Video Search Results to Adapted Semantic Hierarchies for Topic-based Browsing</p>
