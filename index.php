@@ -11,26 +11,26 @@
                 <div id="carousel" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="item active">
-                            <a href="http://yugangjiang.info/"><img src="img/header-2.jpg" alt="Scenery of Shanghai"></a>
+                            <a href="publication/mm14-videoclassification.pdf"><img src="img/mm14_2-hp.png" alt="Exploring Inter-feature and Inter-class Relationships with Deep Neural Networks for Video Classification"></a>
                             <div class="container">
                                 <div class="carousel-caption">
-                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
+                                    <p>Exploring Inter-feature and Inter-class Relationships with Deep Neural Networks for Video Classification</p>
                                 </div>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="img/header-3.jpg" alt="Shanghai International Convention Center" >
+                            <a href="http://bigvid.xiw.im/publication/mm14-videoclassification.pdf"><img src="img/mm14-hp.png" alt="Organizing Video Search Results to Adapted Semantic Hierarchies for Topic-based Browsing"></a>
                             <div class="container">
                                 <div class="carousel-caption">
-                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
+                                    <p>Organizing Video Search Results to Adapted Semantic Hierarchies for Topic-based Browsing</p>
                                 </div>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="img/header-1.jpg" alt="Scenery of Shanghai" >
+                            <a href="research/VCDB/index.html"><img src="img/eccv14-hp.png" alt="VCDB: A Large-Scale Database for Partial Copy Detection in Videos"></a>
                             <div class="container">
                                 <div class="carousel-caption">
-                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
+                                    <p>VCDB: A Large-Scale Database for Partial Copy Detection in Videos</p>
                                 </div>
                             </div>
                         </div>
