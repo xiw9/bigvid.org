@@ -1,39 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php include 'header.php'; print_header('People - BigVid Lab'); ?>
+    <?php include 'header.php'; print_header('成员 - BigVid Lab'); ?>
 </head>
 <body>
-    <?php include 'navbar.php'; print_navbar(1); ?>
+    <?php include 'navbar-cn.php'; print_navbar(1); ?>
     <div class="container">
     	<div class="row">
             <div class="col-xs-6">
-                    <h4>Faculty</h4>
+                    <h4>导师</h4>
                     <ul>
-                        <li><a href="http://yugangjiang.info/">Yu-Gang Jiang</a></li>
+                        <li><a href="http://yugangjiang.info/">姜育刚</a></li>
                     </ul>
                     <hr>
-    				<h4>Graduate Students</h4>
+    				<h4>研究生</h4>
     				<ul>
-    					<li>Qi Dai (PhD 2011-)</li>
-    					<li>Hao Ye (PhD 2009-, co-advised)</li>
+    					<li>戴琦 (PhD 2011-)</li>
+    					<li>叶浩 (PhD 2009-, co-advised)</li>
     					<li>Rui-Wei Zhao (PhD 2014-)</li>
     					<li>Zhenfeng Sun (D.Eng. 2014-)</li>
-    					<li>Jiajun Wang (MS 2013-)</li>
-    					<li>Jian Tu (MS 2013-)</li>
-    					<li><a href="http://zxwu.azurewebsites.net/">Zuxuan Wu</a> (MS 2013-, co-advised)</li>
-    					<li>Xi Wang (MS 2014-)</li>
-    					<li>Baohan Xu (MS 2014-)</li>
-    					<li>Chen Chen (MS 2014-)</li>
-    					<li>Qiang Wang (M.Eng. 2014-)</li>
-                        <li>Jiawei Gu (MS 2015-)</li>
-                        <li>Shi Li (M.Eng. 2015-)</li>
+    					<li>王佳军 (MS 2013-)</li>
+    					<li>涂坚 (MS 2013-)</li>
+    					<li><a href="http://zxwu.azurewebsites.net/">吴祖煊</a> (MS 2013-, co-advised)</li>
+    					<li>王曦 (MS 2014-)</li>
+    					<li>徐宝函 (MS 2014-)</li>
+    					<li>陈晨 (MS 2014-)</li>
+    					<li>王强 (M.Eng. 2014-)</li>
+                        <li>顾家伟 (MS 2015-)</li>
+                        <li>李适 (M.Eng. 2015-)</li>
     				</ul>
                     <hr>
-            		<h4>Undergraduate Students</h4>
+            		<h4>本科生</h4>
             		<ul>
-            			<li>Qibin Lou</li>
-                        <li>Shaoxiang Chen</li>
+            			<li>娄琦彬</li>
+                        <li>陈绍祥</li>
             		</ul>
                     <hr>
                     <h4>Alumni</h4>
@@ -53,8 +53,8 @@
                     <div style="height:200px">
                     </div>
                     <hr>
-                    <h4>Where are we</h4>
-                    <p>Address: The 3rd Floor, Computer Science Building, 825 Zhangheng road, Pudong, Shanghai. </p>
+                    <h4>地址</h4>
+                    <p>上海市浦东新区张衡路825号, 计算机楼三楼</p>
                     <p>
                         Directions: 
                         Driving <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=Pudong+International+Airport+(PVG),+Pudong+Xinqu,+Shanghai,+China&daddr=825+Zhangheng+Road,+Shanghai,+China&hl=en&geocode=FRJL2wEd9ohCBymnhwVp24-tNTGX52eDaebAMQ%3BFSDp2wEdP3M_ByklJXSTkXeyNTGkA6s0DUUr2A&mra=ltm&sll=31.185343,121.6959&sspn=0.131583,0.251312&ie=UTF8&ll=31.1686,121.704311&spn=0.131606,0.251312&z=13" target=_blank>
