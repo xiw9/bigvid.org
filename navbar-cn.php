@@ -62,7 +62,6 @@ function print_navbar($navid){
                 <a href="people"><span class="flag-icon flag-icon-us"></span>&nbsp;English</a> | <a href="people-cn"><span class="flag-icon flag-icon-cn"></span>&nbsp;中文</a>
             </div>
         </div>';}
-        else{ echo '<hr>';}
     echo '
     </header>';
 }
