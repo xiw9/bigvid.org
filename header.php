@@ -15,6 +15,7 @@ function print_header($title){
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/ripples.min.css" rel="stylesheet">
     <link href="css/material.css" rel="stylesheet">
+    <link href="css/flag-icon.min.css" rel="stylesheet">
     <link href="css/bigvid.css" rel="stylesheet">
 
     <!--[if lt IE 9]>
