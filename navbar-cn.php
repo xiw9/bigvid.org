@@ -48,6 +48,11 @@ function print_navbar($navid){
                 </div>
             </div>
         </div>
+        <div class="container">
+            <div class="lang-bar">
+                <a href="/">English</a> | <a href="chinese">中文</a>
+            </div>
+        </div>
     </header>';
 }
 ?>
