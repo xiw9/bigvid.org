@@ -47,6 +47,7 @@ body {
 	margin-bottom: 5px;
 	margin-right: 5px;
 	padding: 5px 10px 5px 10px;
+	font-size: 11px;
 }
 .carousel-inner:hover{
 	box-shadow:0 3px 10px rgba(0,0,0,.34),0 3px 10px rgba(0,0,0,.27)
