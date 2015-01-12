@@ -50,7 +50,7 @@ function print_navbar($navid){
         </div>
         <div class="container">
             <div class="lang-bar">
-                <a href="/"><span class="flag-icon flag-icon-us"></span> English</a> | <a href="chinese"><span class="flag-icon flag-icon-cn"></span> 中文</a>
+                <a href="/"><span class="flag-icon flag-icon-us"></span>&nbsp;English</a> | <a href="chinese"><span class="flag-icon flag-icon-cn"></span>&nbsp;中文</a>
             </div>
         </div>
     </header>';
