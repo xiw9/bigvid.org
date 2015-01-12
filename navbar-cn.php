@@ -16,12 +16,12 @@ function print_navbar($navid){
                     <ul class="nav navbar-nav">', PHP_EOL;
                     $active='class="active"';
                     if ($navid==0){
-                        echo sprintf('<li %s><a href="/">主页</a></li>', $active), PHP_EOL;
+                        echo sprintf('<li %s><a href="chinese">主页</a></li>', $active), PHP_EOL;
                     }else{
-                        echo '<li><a href="index-cn">主页</a></li>', PHP_EOL;
+                        echo '<li><a href="chinese">主页</a></li>', PHP_EOL;
                     }
                     if ($navid==1){
-                        echo sprintf('<li %s><a href="people">成员</a></li>', $active), PHP_EOL;
+                        echo sprintf('<li %s><a href="people-cn">成员</a></li>', $active), PHP_EOL;
                     }else{
                         echo '<li><a href="people-cn">成员</a></li>', PHP_EOL;
                     }
@@ -36,9 +36,9 @@ function print_navbar($navid){
                         echo '<li><a href="dataset">数据集及代码</a></li>',PHP_EOL;
                     }
                     if ($navid==5){
-                        echo sprintf('<li %s><a href="demo">Demo</a></li>', $active),PHP_EOL;
+                        echo sprintf('<li %s><a href="demo">展示</a></li>', $active),PHP_EOL;
                     }else{
-                        echo '<li><a href="demo">Demo</a></li>',PHP_EOL;
+                        echo '<li><a href="demo">展示</a></li>',PHP_EOL;
                     }                                                                                                        
                     echo '
                     </ul>

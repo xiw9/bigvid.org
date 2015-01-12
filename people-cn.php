@@ -17,7 +17,7 @@
     				<ul>
     					<li>戴琦 (PhD 2011-)</li>
     					<li>叶浩 (PhD 2009-, co-advised)</li>
-    					<li>Rui-Wei Zhao (PhD 2014-)</li>
+    					<li>赵瑞玮 (PhD 2014-)</li>
     					<li>Zhenfeng Sun (D.Eng. 2014-)</li>
     					<li>王佳军 (MS 2013-)</li>
     					<li>涂坚 (MS 2013-)</li>
@@ -36,16 +36,16 @@
                         <li>陈绍祥</li>
             		</ul>
                     <hr>
-                    <h4>Alumni</h4>
+                    <h4>毕业生</h4>
                     <ul>
                         <li>Yingbin Zheng (PhD 2013, co-advised), SAP Labs Shanghai</li>
-                        <li>Jian Pu (PhD 2014, co-advised), Institute of Neuroscience, CAS</li>
-                        <li>Yudong Jiang (MS 2014), Alipay, Alibaba Group</li>
-                        <li>Yanran Wang (MS 2014), now at Northwestern University, USA</li>
+                        <li>Jian Pu (PhD 2014, co-advised), 中国科学院神经科学研究所</li>
+                        <li>蒋宇东 (MS 2014), Alipay, Alibaba Group</li>
+                        <li>王嫣然 (MS 2014), now at Northwestern University, USA</li>
                     </ul>
                     <ul>
                         <li>Lixuan Zhu (BSc 2013), now at NYU</li>
-                        <li>Ziqiang Shi (BSc 2013), now at UCLA</li>
+                        <li>史自强 (BSc 2013), now at UCLA</li>
                         <li>Tongtao Zhang (Visiting Student 2013), now at RPI</li>
                     </ul>
 			</div>
