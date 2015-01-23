@@ -16,9 +16,10 @@
                 </div>
                 <div class="row-content">
                     <p><a href="http://bigvid.fudan.edu.cn/FCVID/" >FCVID: Fudan-Columbia Video Dataset</a></p>
-                    <p><font style="font-size: 8pt; color: #ff0000">Containing 91,223 Web videos annotated manually according to 239 categories</font></p>      
+                    <p><font style="font-size: 8pt; color: #ff0000">91,223 Web videos annotated manually according to 239 categories</font></p>      
                 </div>
             </div>
+            <div class="list-group-separator"></div>
             <div class="list-group-item">
                 <div class="row-picture">
                     <IMG src="index.files/VCDB.jpg">
