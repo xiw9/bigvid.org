@@ -12,11 +12,20 @@
         <div class="list-group list-dataset">
             <div class="list-group-item">
                 <div class="row-picture">
+                    <IMG src="index.files/FCVID.jpg">
+                </div>
+                <div class="row-content">
+                    <p><a href="http://bigvid.fudan.edu.cn/FCVID/" >FCVID: Fudan-Columbia Video Dataset</a></p>
+                    <p><font style="font-size: 8pt; color: #ff0000">Containing 91,223 Web videos annotated manually according to 239 categories</font></p>      
+                </div>
+            </div>
+            <div class="list-group-item">
+                <div class="row-picture">
                     <IMG src="index.files/VCDB.jpg">
                 </div>
                 <div class="row-content">
-        			<p><a href="research/VCDB/index.html" >VCDB: a large-scale database for partial copy detection in videos</a></p>
-        			<p><A href="publication/eccv14-VCDB.pdf" >ECCV 2014 paper</A> </p>		
+                    <p><a href="research/VCDB/index.html" >VCDB: a large-scale database for partial copy detection in videos</a></p>
+                    <p><A href="publication/eccv14-VCDB.pdf" >ECCV 2014 paper</A> </p>      
                 </div>
             </div>
             <div class="list-group-separator"></div>
